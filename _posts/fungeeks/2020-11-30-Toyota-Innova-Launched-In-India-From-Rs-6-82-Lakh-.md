@@ -1,0 +1,35 @@
+---
+layout: post
+title: "Toyota Innova Launched In India From Rs 6 82 Lakh "
+author: jane 
+date: 30-11-2020 16:25:43 
+categories: [ BUSINESS ] 
+image: assets/images/30-11-2020/Toyota-Innova-e1606627485634.jpg
+---
+‘Toyota Innova Launched In India From Rs. 6.82 Lakh’ this was the headline when Toyota Innova was first launched in India back in 2005 and now the 2020 Facelift has just arrived In India and we have compared the evolution of the prices since it first stepped foot into the market
+
+Toyota Kirloskar Motor (TKM) introduced the Innova MPV in 2005 as a replacement to the all conquering Qualis and over the last fifteen years, more than 8,80,000 units were sold with three lakh units from the Innova Crysta introduced as the second generation in 2016. However, a lot has changed and the Innova has grown into an upmarket MPV.
+
+Here we bring you a low down of some of the key things that largely went unnoticed in its path along the way to being an undisputed seller in its segment with no direct rivals:
+
+Upon its launch by the middle of last decade, the Innova had a starting price of Rs. 6.82 lakh and Rs. 7.42 lakh for petrol and diesel variants, and it went up to Rs. 9.43 lakh and Rs. 10.03 lakh for the respective range-topping trims (ex-showroom). The Japanese manufacturer set an initial sales target of 45,000 units, which was thought to be ambitious against the likes of Chevy Tavera.
+
+But, it did post high volumes. It was powered by a 2.0-litre VVT-i petrol producing 136 PS and a 2.5-litre common rail diesel engine kicking out 102 PS. Capitalising on the growing customer base, Toyota brought in the facelifted version of the Innova at the 2012 Auto Expo. It carried a price tag between Rs. 8.87 lakh and Rs. 13.20 lakh (ex-showroom Delhi).
+
+The Innova did receive more premium features and cosmetic updates as the price range only got costlier. In October 2013, the MPV was given another mid-cycle update with addition of new variants and features such as rear roof spoiler, graphics on the flanks, two-tone leather seats, chromed exhaust tip, wood finish for gear knob, dashboard and armrests. The prices stood at Rs. 12.46 lakh to Rs. 15.07 lakh (ex-showroom).
+
+The main revisions in the facelifts were chrome boot lid garnish with integrated reflector, body cladding, chrome surrounded fog lamps, new front grille and redesigned front bumper. The first-gem Innova could be specified in seven- or eight-seat configuration and it had features like dual front airbags, ABS with EBD, automatic climate control, steering mounted controls, etc.
+
+With Toyota constantly upping the premium game with the Innova, the buyers couldn’t stop flocking in despite the regular increase in its price range and the good resale value. By May 2016, the Innova Crysta came to the fore as it pushed the envelope further in terms of design, interior, features and upscale characteristics.
+
+With a brand new design philosophy and a thoroughly overhauled cabin, the Innova Crysta bursted onto the scenes with a starting price of Rs. 13.84 lakh and it went up to Rs. 20.78 lakh (ex-showroom). With the second generation, the MPV distanced itself from other MPVs like Maruti Suzuki Ertiga and carved a niche on its own with a roomier cabin courtesy of increased proportions compared to the previous model.
+
+The utilitarian stature of the Innova was nowhere to be seen as the cabin featured better technologies and equipment such as electrically adjustable front seats. A more powerful and downsized 2.4-litre GD series diesel took the place of the old 2.5-litre motor with 150 horsepower, paired with a five-speed MT and a bigger 2.8-litre 174 hp developing oil-burner was positioned at the top with multiple driving modes and a new six-speed AT.
+
+Toyota Innova Versions Petrol (Starting Price) Diesel (Starting Price) First Gen 2005 Rs. 6.82 Lakh Rs. 7.42 Lakh First Gen 1st Facelift 2012 Rs. 9.37 Lakh Rs. 8.87 Lakh First Gen 2nd Facelift 2013 Rs. 10.20 Lakh Rs. 12.45 Lakh 2nd Gen 2016 Rs. 13.72 Lakh Rs. 13.84 Lakh 2nd Gen 1st Facelift 2020 Rs. 16.26 Lakh Rs. 16.64 Lakh
+
+The equipment list had certain highlights such as seven airbags, three point seatbelt, standard airbags and ABS, vehicle stability control and so on. A 2.7-litre petrol engine joined the way and the variant lineup saw expansion courtesy of the top-of-the-line Touring Sport variant. With four and half years gone by, the facelifted Innova Crysta has just arrived to extend the lifespan of the existing generation further.
+
+The 2021 Toyota Innova Crysta is priced between Rs. 16.26 lakh and Rs. 24.33 lakh (ex-showroom). With no mechanical changes, the front fascia has gained a redesigned grille, headlamps and bumper along with a new set of 16-inch diamond-cut alloy wheels. Besides a new colour scheme, a larger touchscreen and other subtle interior improvements, it remains the same as the previous model.
+
+Comparing the prices to 2016 when the Innova Crysta first came out, you could readily see the massive increase of at least Rs. 3 lakh to Rs. 4 lakh. If this does not shock you, the 2005 original Innova was close to only a third of the facelifted Innova Crysta’s pricing.
