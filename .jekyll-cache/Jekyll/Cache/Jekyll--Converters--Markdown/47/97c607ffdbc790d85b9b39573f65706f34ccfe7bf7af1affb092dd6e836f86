@@ -1,0 +1,200 @@
+I"=<div class="container">
+<div class="row justify-content-center">
+    <div class="col-md-8">        
+        <div class="row align-items-center mb-5">
+            <div class="col-md-9">
+                <h2 class="font-weight-bold">Upendra Bajpai <span class="small btn btn-outline-success btn-sm btn-round"><a href="https://twitter.com/bajpaiupendra">Follow</a></span></h2>
+                <p><a href="http://Upendra.ga">http://Upendra.ga</a></p>
+                <p class="excerpt">Hi, I am Upendra, the author in Human and machine languages,I don't know to how 3 liner bio works so just Connect with me on social sites you will get to know me better.</p>
+            </div>
+            <div class="col-md-3 text-right">
+                <img alt="Upendra" src="/assets/images/avatar1.jpeg" class="rounded-circle" height="100" width="100" />
+            </div>
+        </div>
+        <h4 class="font-weight-bold spanborder"><span>Posts by Upendra Bajpai</span></h4>
+            
+            
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/net-imp-notes/">Network Importent notes</a>
+	</h2>
+	<p class="excerpt">
+	   Computer NetworkRange of Private IP  10.0.0.0 - 10.255.255.255  172.16.0.0 - 172.31.255.255  192.168.0.0 - 192.168.255.255
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#jekyll">Jekyll</a><span class="sep">, </span>
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#tutorial">tutorial</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Jul 24, 2020
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/net-imp-notes/">
+	<img class="w-100" src="/assets/images/4.jpg" alt="Network Importent notes" />
+	</a>
+	</div>
+
+</div>
+            
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/dld-imp-notes/">DLD Importent notes</a>
+	</h2>
+	<p class="excerpt">
+	   DLD Imp notesAccording to Amdahl’s law speed up for infinite number of process:
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#jekyll">Jekyll</a><span class="sep">, </span>
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#tutorial">tutorial</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Jul 24, 2020
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/dld-imp-notes/">
+	<img class="w-100" src="/assets/images/4.jpg" alt="DLD Importent notes" />
+	</a>
+	</div>
+
+</div>
+            
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/crypto-imp-notes/">crypto Importent notes</a>
+	</h2>
+	<p class="excerpt">
+	   DES  Symittric key cryptography  key-64 bit/128 bit  block- 64 bit  key 56 bit key lenght.  replace by AES  has 4x16 ‘s’ block  Double DES- Meet in middle attack prone.  Triple Des- 5...
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#jekyll">Jekyll</a><span class="sep">, </span>
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#tutorial">tutorial</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Jul 24, 2020
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/crypto-imp-notes/">
+	<img class="w-100" src="/assets/images/4.jpg" alt="crypto Importent notes" />
+	</a>
+	</div>
+
+</div>
+            
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/os-imp-notes/">OS Importent notes</a>
+	</h2>
+	<p class="excerpt">
+	   OS
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#jekyll">Jekyll</a><span class="sep">, </span>
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#tutorial">tutorial</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Jul 24, 2020
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/os-imp-notes/">
+	<img class="w-100" src="/assets/images/4.jpg" alt="OS Importent notes" />
+	</a>
+	</div>
+
+</div>
+            
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/c-imp-notes/">C Importent notes</a>
+	</h2>
+	<p class="excerpt">
+	   C Importent notesPointersSize of pointers is fixed.  Size of an array is number of elements multiplied by the type of element, that is why we get sizeof arri as 12 and sizeof arrc as ...
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#jekyll">Jekyll</a><span class="sep">, </span>
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#tutorial">tutorial</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Jul 24, 2020
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/c-imp-notes/">
+	<img class="w-100" src="/assets/images/4.jpg" alt="C Importent notes" />
+	</a>
+	</div>
+
+</div>
+            
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/powerful-things-markdown-editor/">Powerful things you can do with the Markdown editor</a>
+	</h2>
+	<p class="excerpt">
+	   There are lots of powerful things you can do with the Markdown editor
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#jekyll">Jekyll</a><span class="sep">, </span>
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#tutorial">tutorial</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Jul 24, 2020
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/powerful-things-markdown-editor/">
+	<img class="w-100" src="/assets/images/4.jpg" alt="Powerful things you can do with the Markdown editor" />
+	</a>
+	</div>
+
+</div>
+            
+    </div>
+</div>
+</div>
+:ET

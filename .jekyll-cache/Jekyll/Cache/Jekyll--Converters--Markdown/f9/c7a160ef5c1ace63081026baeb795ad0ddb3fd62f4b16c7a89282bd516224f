@@ -1,0 +1,91 @@
+I"G<h1 id="dld-imp-notes">DLD Imp notes</h1>
+<h5 id="according-to-amdahls-law-speed-up-for-infinite-number-of-process">According to Amdahl’s law speed up for infinite number of process:</h5>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code> S = 1 / (1-P) 
+</code></pre></div></div>
+
+<p>where p is parallel part of program Given, sequential part of program is 5%. So parallel part of the program (P)</p>
+
+<p>= 1 - sequential part
+= 1 - 0.05 (or 5%)
+= 0.95 (or 95%)</p>
+
+<p>Now S = 1 / (1-P)
+ie  S = 1 / (1-0.95)
+    S = 1 / 0.05
+    S = 20</p>
+
+<h5 id="a-cpu-has-a-32-kb-direct-mapped-cache-with-128-byte-block-size-suppose-a-is-a-2-dimensional-array-of-size-512512-with-elements-that-occupy-8-bytes-each-consider-the-code-segment">A CPU has a 32 KB direct mapped cache with 128 byte block size. Suppose A is a 2 dimensional array of size 512×512 with elements that occupy 8 bytes each. Consider the code segment</h5>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>for (i =0; i &lt; 512; i++) {
+  for (j =0; j &lt; 512; j++) {
+    x += A[i][j];
+  }
+} 
+</code></pre></div></div>
+<h3 id="ans-">Ans: <img src="/assets/images/cache.jpg" alt="cacheimage" /></h3>
+
+<h5 id="for-a-pipelined-cpu-with-a-single-alu-consider-the-following-situations">For a pipelined CPU with a single ALU, consider the following situations</h5>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>1. The j + 1-st instruction uses the result of the j-th instruction
+    as an operand
+2. The execution of a conditional jump instruction
+3. The j-th and j + 1-st instructions require the ALU at the same 
+   time
+</code></pre></div></div>
+
+<p>Which of the above can cause a hazard ?
+(A) 1 and 2 only
+(B) 2 and 3 only
+(C) 3 only
+(D) All of above</p>
+
+<h3 id="answer-d">Answer: (D)</h3>
+
+<p>Explanation: Case 1: Is of data dependency .this can’t be safe with single ALU so read after write.</p>
+
+<p>Case 2:Conditional jumps are always hazardous they create conditional dependency in pipeline.</p>
+
+<p>Case 3:This is write after read problem or concurrency dependency so hazardous</p>
+
+<p>All the three are hazardous</p>
+
+<h5 id="a-micro-instruction-format-has-micro-ops-field-which-is-divided-into-three-subfields-f1-f2-f3-each-having-seven-distinct-micro-operations-condition-field-cd-for-four-status-bits-branch-field-br-having-four-options-used-in-conjunction-with-address-field-adf-the-address-space-is-of-128-memory-locations-the-size-of-micro-instruction-is">A micro-instruction format has micro-ops field which is divided into three subfields F1, F2, F3 each having seven distinct micro-operations, condition field CD for four status bits, branch field BR having four options used in conjunction with address field ADF. The address space is of 128 memory locations. The size of micro-instruction is?</h5>
+<p>The size of micro-instruction is:
+a.17
+b.20
+C.24
+D.32
+Microprocessor instruction format, which is divided into three subfields F1, F2, F3 each having seven distinct micro-operations, condition field CD for four status bits, branch field BR having four options used in conjunction with address field ADF. The address space is of 128 memory locations.ie: q8 F1,F2,F3 each having seven distinct micro-operation. So, 3 bits are required for each. Condition field have four status, it needs 2 bits for four different condition. Branch field have four option so,it needs 2 bits for four option. Now there are 128 different memory location, So, there 7 bits atre required for 128 diffeent location. Instruction Field: q8 (1) Total bits are 20. So, option (B) is correct.</p>
+
+<p>Main components of memory tube display are:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Flood gun
+Primary gun
+Writing Beam
+Collector
+Storage grid
+Screen
+Focussing &amp; deflection system
+Flood electron
+Ground or base
+</code></pre></div></div>
+
+<p>Only Liquid crystal is not enlisted here and it is not the display component in memory tube</p>
+
+<h5 id="a-32---bit-wide-main-memory-unit-with-a-capacity-of-1-gb-is-built-using-256m-x-4-bit-dram-chips-the-number-of-rows-of-memory-cells-in-the-dram-chip-is-214-the-time-taken-to-perform-one-refresh-operation-is-50-nanoseconds-the-refresh-period-is-2-milliseconds-the-percentage-rounded-to-the-closet-integer-of-the-time-available-for-performing-the-memory-readwrite-operations-in-the-main-memory-unit-is-___">A 32 - bit wide main memory unit with a capacity of 1 GB is built using 256M X 4-bit DRAM chips. The number of rows of memory cells in the DRAM chip is 214. The time taken to perform one refresh operation is 50 nanoseconds. The refresh period is 2 milliseconds. The percentage (rounded to the closet integer) of the time available for performing the memory read/write operations in the main memory unit is <strong>__</strong>_</h5>
+
+<p>Given, total number of rows is 214 and time taken to perform one refresh operation is 50 nanoseconds. So, total time taken to perform refresh operation = 214*50 nanoseconds = 819200 nanoseconds = 0.819200 milliseconds. But refresh period is 2 milliseconds. So, time spent in refresh period in percentage = (0.819200 milliseconds) / (2 milliseconds) = 0.4096 = 40.96% Hence, time spent in read/write operation = 100% - 40.96% = 59.04% = 59 (in percentage and rounded to the closet integer). So, answer is 59.</p>
+
+<p>#####</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>The RISC design philosophy generally incorporates a larger number of registers to prevent in large amounts of interactions with memory.
+The decision of RISC processor designers to provide simple addressing modes leads to uniform length instructions, so RISC instruction is of uniform fixed length.
+In the hardwired control unit, the control units use fixed logic circuits to interpret instructions and generate control signals from them. It is significantly faster than its counterpart but is rather inflexible. Most of the RISC processors are based on the hardwired control unit design approach.
+</code></pre></div></div>
+
+<h5 id="a-processor-has-16-integer-registers-r0-r1---r15-and-64-floating-point-registers-f0-f1---f63-it-uses-a-2-byte-instruction-format-there-are-four-categories-of-instructions-type-1-type-2-type-3-and-type-4-type-1-category-consists-of-four-instructions-each-with-3-integer-register-operands-3rs-type-2-category-consists-of-eight-instructions-each-with-2-floating-point-register-operands-2fs-type-3-category-consists-of-fourteen-instructions-each-with-one-integer-register-operand-and-one-floating-point-register-operand-1r1f-type-4-category-consists-of-n-instructions-each-with-a-floating-point-register-operand-1f-the-maximum-value-of-n-is-___--note--this-was-numerical-type-question">A processor has 16 integer registers (R0, R1, … , R15) and 64 floating point registers (F0, F1, … , F63). It uses a 2-byte instruction format. There are four categories of instructions: Type-1, Type-2, Type-3, and Type 4. Type-1 category consists of four instructions, each with 3 integer register operands (3Rs). Type-2 category consists of eight instructions, each with 2 floating point register operands (2Fs). Type-3 category consists of fourteen instructions, each with one integer register operand and one floating point register operand (1R+1F). Type-4 category consists of N instructions, each with a floating point register operand (1F). The maximum value of N is <strong>__</strong>_ . Note -This was Numerical Type question</h5>
+
+<h5 id="in-distributed-system-the-capacity-of-a-system-to-adapt-the-increased-service-load-is-called-____-">In Distributed system, the capacity of a system to adapt the increased service load is called <strong>__</strong><em>__</em> .</h5>
+<p>Scalability
+till  page no 14 
+https://www.geeksforgeeks.org/computer-organization-and-architecture-gq/</p>
+:ET

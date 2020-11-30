@@ -1,0 +1,7 @@
+I"Ä<h1 id="c-importent-notes">C Importent notes</h1>
+<h2 id="pointers">Pointers</h2>
+<h3 id="size-of-pointers-is-fixed">Size of pointers is fixed.</h3>
+<ul>
+  <li>Size of an array is number of elements multiplied by the type of element, that is why we get sizeof arri as 12 and sizeof arrc as 3. Size of a pointer is fixed for a compiler. All pointer types take same number of bytes for a compiler. That is why we get 4 for both ptri and ptrc.</li>
+</ul>
+:ET

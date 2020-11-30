@@ -1,0 +1,82 @@
+I"�<h1 id="c-importent-notes">C Importent notes</h1>
+<h2 id="pointers">Pointers</h2>
+<h3 id="size-of-pointers-is-fixed">Size of pointers is fixed.</h3>
+<ul>
+  <li>
+    <p>Size of an array is number of elements multiplied by the type of element, that is why we get sizeof arri as 12 and sizeof arrc as 3. Size of a pointer is fixed for a compiler. All pointer types take same number of bytes for a compiler. That is why we get 4 for both ptri and ptrc.</p>
+  </li>
+  <li>
+    <p>Guess Output</p>
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>#include&lt;stdio.h&gt; 
+int main() 
+{ 
+ int a; 
+ char *x; 
+ x = (char *) &amp;a; 
+ a = 512; 
+ x[0] = 1; 
+ x[1] = 2; 
+ printf("%dn",a);   
+ return 0; 
+}
+</code></pre></div>    </div>
+    <p><em>Ans. machine dependent</em></p>
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Explanation: 
+Output is 513 in a little endian machine. To understand this output, let integers be stored using 16 bits. In a little endian machine, when we do x[0] = 1 and x[1] = 2, the number a is changed to 00000001 00000010 which is representation of 513 in a little endian machine.
+</code></pre></div>    </div>
+  </li>
+</ul>
+
+<h3 id="segmenation-fault">Segmenation fault:</h3>
+<p>Segmentation fault is a specific kind of error caused by accessing memory that “does not belong to you.” It’s a helper mechanism that keeps you from corrupting the memory and introducing hard-to-debug memory bugs. Whenever you get a segfault you know you are doing something wrong with memory – accessing variable that has already been freed, writing to a read-only portion of the memory, etc. Segmentation fault is essentially the same in most languages that let you mess with the memory management, there is no principial difference between segfaults in C and C++.</p>
+
+<p>There are many ways to get a segfault, at least in the lower-level languages such as C(++). A common way to get a segfault is to dereference a null pointer:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>int *p = NULL;
+*p = 1;
+</code></pre></div></div>
+<p>Another segfault happens when you try to write to a portion of memory that was marked as read-only:</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>char *str = "Foo"; // Compiler marks the constant string as read-only
+*str = 'b'; // Which means this is illegal and results in a segfault
+</code></pre></div></div>
+<p>Dangling pointer points to a thing that does not exist any more, like here:</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>char *p = NULL;
+{
+    char c;
+    p = &amp;c;
+}
+// Now p is dangling
+</code></pre></div></div>
+<p>The pointer p dangles because it points to character variable c that ceased to exist after the block ended. And when you try to dereference dangling pointer (like *p=’A’), you would probably get a segfault.</p>
+
+<ul>
+  <li><em>void * type pointers cannot be de-referenced</em>
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>#include&lt;stdio.h&gt;
+int main()
+{
+  int a = 12;
+  void *ptr = (int *)&amp;a;
+  printf("%d", *ptr);
+  getchar();
+  return 0;
+}
+</code></pre></div>    </div>
+    <p><em>Ans. Compiler Error</em></p>
+  </li>
+  <li>Increment the pointer or value?
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>int arr[] = {1, 2, 3, 4, 5};
+  int *p = arr;
+  ++*p;
+</code></pre></div>    </div>
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Explanation: 
+The expression ++*p is evaluated as "++(*p)" . So it increments the value of first element of array (doesn't change the pointer p). When p += 2 is done, p is changed to point to third element of array.
+</code></pre></div>    </div>
+  </li>
+</ul>
+
+<h4 id="time-complexity">Time Complexity</h4>
+
+<p><img src="/assets/images/dssorting.jpg" alt="Array sorting" />
+<img src="/assets/images/sorting.jpg" alt="Ds Sorting" />
+<img src="https://www.freecodecamp.org/news/semantic-html5-elements/" alt="Sementics" /></p>
+:ET
