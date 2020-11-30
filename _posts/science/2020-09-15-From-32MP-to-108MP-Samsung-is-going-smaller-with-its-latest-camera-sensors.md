@@ -1,0 +1,33 @@
+---
+layout: post
+title: "From 32MP to 108MP Samsung is going smaller with its latest camera sensors"
+author: jane 
+date: 15-09-2020 12:49:27 
+categories: [ TECHNOLOGY ] 
+image: assets/images/15-09-2020/Samsung-logo-Galaxy-S20-3-920x470.jpg
+---
+Samsung has delivered a variety of ultra high resolution smartphone sensors in recent times, with most of them offering relatively small 0.8 micron pixels while delivering pixel-binning for better image quality. Samsung isn’t stopping at 0.8 micron pixels though, as it’s just announced several image sensors packing plenty of megapixels and even smaller 0.7 micron pixels.
+
+Smaller pixels generally mean less impressive light gathering capabilities and therefore less impressive low-light images, but Samsung thinks this approach will also yield sleeker designs and reduce the size of camera bumps. In fact, the company says these sensors are up to 15% smaller than 0.8 micron pixel sensors with the same resolution, while the height is reduced by up to 10% as well.
+
+Furthermore, all the new sensors pack Isocell Plus technology to prevent light bleed and cross-talk between pixels, as well as its Smart ISO tech for improved exposures.
+
+All the new Samsung sensors
+
+Leading the charge is the Samsung Isocell HM2, which is Samsung’s third 108MP sensor. Samsung adds that the new sensor is 15% smaller than its predecessors (1/1.52 inches) while also offering previous features like 3x lossless zoom and Super PD autofocus. Much like the Isocell HM1 used on the Samsung Galaxy S20 Ultra and Note 20 Ultra, you can expect nonabinning tech on the Isocell HM2 as well, combining data from nine pixels into one and therefore churning out 12MP shots. You’re also getting 8K/24fps and 4K/120fps video recording support.
+
+The second camera sensor revealed today is the 64MP Isocell GW3, following on from the 64MP GW1 and GW2. The firm notes that this is optimized for “mainstream devices,” suggesting that we could see this sensor in much cheaper devices than flagships or mid-range phones. It adds that the GW3’s “optical size” is almost identical to its 48MP 0.8 micron pixel sensors (1/1.97-inches). You can also expect 4K/60fps recording support as well as gyro-based image stabilization.
+
+Speaking of 48MP camera sensors, the Korean company is also launching a 48MP sensor with 0.7 micron pixels and a 1/2.55-inch sensor size. Dubbed the Isocell GM5, Samsung says this sensor is made with ultra-wide cameras or periscope cameras in mind. In fact, users can expect a smaller camera bulge if the sensor is used for 5x periscope/folding zoom.
+
+The last sensor on the list is the 32MP Isocell JD1, which Samsung says is the smallest 32MP sensor in the industry (1/3.14 inches). Samsung is positioning this sensor as being ideal for pop-up selfie cameras as well as under-display selfie cameras. The camera sits “comfortably” beneath the display, with the module height comparable to 16MP one micron pixel and 20MP 0.9 micron pixel cameras.
+
+What else should you know?
+
+Both the 48MP Isocell GM5 and the 32MP Isocell JD1 pack Samsung’s staggered HDR technology as well. The company says staggered HDR “expedites image processing by sending a readout of long, medium, and short exposures of each row of pixels respectively to the mobile processor.” This is touted as a faster and more power-efficient HDR solution. You should also get brighter and clearer images with less noise as the HDR method is based on pixel-binned 1.4 micron pixels rather than the smaller individual pixels.
+
+The new 108MP, 64MP, and 32MP camera sensors are currently in mass production, while the 48MP Isocell GM5 is now available for sampling. There’s no word on when we’ll see the first phones with these sensors. Nevertheless, we’ll need to check out the first phones to figure out whether going smaller is worthwhile.
+
+Samsung confirmed that more 0.7 micron pixel sensors are coming later this year though, and that they’ll offer brand-new Isocell 2.0 technology. The Korean company says the new tech should improve light sensitivity by up to 12% compared to the Isocell Plus tech currently used on its sensors.
+
+Next: 108MP sensor versus computational photography — Which one wins?

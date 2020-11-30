@@ -1,0 +1,11 @@
+---
+layout: post
+title: "China s Sinovac coronavirus vaccine candidate appears safe slightly weaker in elderly"
+author: jane 
+date: 08-09-2020 10:23:44 
+categories: [ BUSINESS ] 
+image: assets/images/08-09-2020__10/photo.jpg
+---
+Representative photo: AFP
+
+BEIJING: Chinese firm Sinovac Biotech Ltd said on Monday its coronavirus vaccine candidate appeared to be safe for older people, according to preliminary results from an early to mid-stage trial, while the immune responses triggered by the vaccine were slightly weaker than younger adults Health officials have been concerned about whether experimental vaccines could safely protect the elderly, whose immune systems usually react less robustly to vaccines, against the virus that has led to nearly 890,000 deaths worldwide.Sinovac's candidate CoronaVac did not cause severe side effects in a combined Phase 1 and Phase 2 trials launched in May involving 421 participants aged at least 60, Liu Peicheng, Sinovac's media representative, told Reuters. The complete results have not been published and were not made available to Reuters.Four of the world's eight vaccines that are in the third phase of trials are from China.For three groups of participants who respectively took two shots of low, medium and high-dose CoronaVac, over 90% of them experienced significant increase in antibody levels, while the levels were slightly lower than those seen in younger subjects but in line with expectation, Liu said in a statement.CoronaVac, being tested in Brazil and Indonesia in the final-stage human trials to evaluate whether it is effective and safe enough to obtain regulatory approvals for mass use, has already been given to tens of thousands of people, including about 90% of Sinovac employees and their families, as part of China's emergency inoculation scheme to protect people facing high infection risk.The potential vaccine could remain stable for up to three years in storage, Liu said, which might offer Sinovac some advantage in vaccine distribution to regions where cold-chain storage is not an option.Such estimation is extrapolated from the fact that vaccines readings stayed within acceptable ranges for 42 days at 25 Celsius (77 Fahrenheit), 28 days at 37C (98.6 F), and five months for 2-8C (35.6-46.4 F), Liu said, without disclosing complete data.

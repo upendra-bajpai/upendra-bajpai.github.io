@@ -1,0 +1,29 @@
+---
+layout: post
+title: "Apple eases in app purchase restrictions for online game streaming Report"
+author: jane 
+date: 14-09-2020 10:38:18 
+categories: [ TECHNOLOGY ] 
+image: assets/images/14-09-2020/apple-app-store-770x433.jpg
+---
+Tech goliath Apple has eased its App Store guidelines for iPad and iPhone users, and will now not charge the 15-30 percent fee for all app downloads, in-app purchases and subscriptions.
+
+While small, the changes made on September 11 suggest Apple is willing to listen to app makers’ complaints against stringent rules, Bloomberg reported.
+
+The biggest impact is likely to be seen in the streaming video games market, where for the first time Apple will approve games directly from the web as opposed to only those via installed apps.
+
+Previously, complaints were raised by Google, Nvidia Corporation and Microsoft Corporation, who challenged unavailability of their streaming services on Apple devices while Apple’s own Arcade was freely available.
+
+The new leeway is however still limited. Games will have to be submitted individually for Apple’s platforms instead of an “all-you-can-eat” service, but still potentially gives users access to a wider variety of titles currently unavailable. So while it does hinder a company’s ability to offer broad streaming games service, it makes workarounds possible.
+
+“Streaming games are permitted so long as they adhere to all guidelines — for example, each game update must be submitted for review, developers must provide appropriate metadata for search, games must use in-app purchase to unlock features or functionality," Apple’s statement to developers said.
+
+Google declined to comment, as per the report, while Microsoft maintained it “remains a bad experience for customers.”
+
+“Gamers want to jump directly into a game from their curated catalogue within one app just like they do with movies or songs, and not be forced to download over 100 apps to play individual games from the cloud,” Microsoft spokesperson told Bloomberg.
+
+Besides gaming apps, online teaching apps will also now be allowed in-app purchases for tutoring and work-outs – but limited to between two people. This is an improvement over the 30 percent class revenue earlier paid by developers including ClassPass, Airbnb and Facebook.
+
+E-mail apps are another winner, with in-app purchase rules tweaked and more free accounts allowed.
+
+However, Tim Sweeney, CEO of Epic Games, which is embroiled in a legal dispute with Apple over circumvention of App Store guidelines said the move will not impact the tech giant’s “grip on the mobile gaming business,” according to the report.

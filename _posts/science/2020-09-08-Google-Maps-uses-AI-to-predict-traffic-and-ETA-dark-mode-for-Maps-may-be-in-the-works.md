@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Google Maps uses AI to predict traffic and ETA dark mode for Maps may be in the works"
+author: jane 
+date: 08-09-2020 10:48:04 
+categories: [ TECHNOLOGY ] 
+image: assets/images/08-09-2020__10/Screenshot_2020-09-07_at_3.47.-647x363.png
+---
+Google Maps takes assistance from Deep Minds, a London-based AI lab owned by Google’s parent company Alphabet to get accurate results for users. Google, in a blog post, explains how the AI helps it collect data using neural networks to predict future traffic.
+
+This data includes live traffic information collected anonymously from Android devices, historical traffic data, information like speed limits and construction sites from local governments, and also factors like the quality, size, and direction of any given road, The Verge noted. "We then combine this database of historical traffic patterns with live traffic conditions, using machine learning to generate predictions based on both sets of data," Johann Lau, product Manager Google Maps, wrote in the blog post.
+
+Other than the AI, Google relies on traffic data from authorities of local governments and real-time feedback from users.
+
+Google noted that its traffic predictions have been consistently accurate for over 97 per cent of trips. For the noted inaccuracy in Estimated Time Arrival (ETA), Google takes help of DeepMind using Graph Neural Networks that helps it in achieving accuracy. Google noted that it has seen improvements in Berlin, Jakarta, São Paulo, Sydney, Tokyo, and Washington DC. Through neural networks, Google Maps is able to better predict a journey well before it is even started.
+
+As per Google, the traffic patterns around the world have dramatically changed since the beginning of COVID 19 and so it will prioritise historical traffic patterns from the last two-to-four weeks, and deprioritise patterns from any time before that.
+
+In related news, Google Maps is testing a dark mode for the app. Until now, users were able to use the dark-mode in navigate option but as per a report by 9to5Google, Google may roll out an app-wide dark mode. However, it was just the APK versions that were uploaded by Google to the Play Store, meaning that they may or may not get materialised.
+
+The 10.5.0 version of Google Maps describes a new "Appearance" menu in Settings where users will have three options: Default to device theme, Dark theme, and Light theme. The report noted that creating a dark map is likely a big effort and not as simple as inverting colours.

@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Novavax aims for 2 billion Covid 19 vaccine doses with expanded India deal"
+author: jane 
+date: 17-09-2020 11:41:10 
+categories: [ BUSINESS ] 
+image: assets/images/17-09-2020/photo.jpg
+---
+More on Covid-19
+
+US drug developer Novavax Inc said on Tuesday it was doubling its potential Covid-19 vaccine manufacturing capacity to two billion doses annually under an agreement with Serum Institute of India, sending its shares up about 7%.In August, Novavax signed a deal with Serum Institute, the world’s largest producer of vaccines, to produce a minimum of one billion doses of its vaccine candidate, when approved, for low- and middle-income countries and India.As part of the expanded agreement, Serum Institute will also manufacture the antigen component of the vaccine, dubbed NVX-CoV2373, which Novavax said will bring its manufacturing capacity to over two billion doses by mid-2021.Novavax’s vaccine is currently in mid-stage trials after an early-stage study showed it produced high levels of antibodies against the novel coronavirus . The company plans to begin late-stage trials in the third quarter.Last month, Novavax said it will supply 60 million doses of its coronavirus vaccine candidate to the UK beginning as early as the first quarter of 2021.The company is also preparing to deliver 100 million doses to the United States by January after it was awarded $1.6 billion for its potential vaccine, and has also signed supply agreements with Canada and Japan.Other drugmakers such as Pfizer Inc and Moderna Inc have already begun large late-stage studies of their experimental vaccines.

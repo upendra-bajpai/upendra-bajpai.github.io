@@ -1,0 +1,10 @@
+---
+layout: post
+title: "6 foods that add to your stress levels and its healthy swaps"
+author: jane 
+date: 17-09-2020 11:40:37 
+categories: [ HEALTH ] 
+image: assets/images/17-09-2020/78127080.cms
+---
+Many people get into the habit of daily drinking only because they feel it helps them relieve stress. Though yes, alcohol may temporarily relieve some stress, it should not become a habit. Alcohol is actually a depressant that can increase anxiety. Choose herbal tea over alcohol. It has been observed that tea drinkers have a lower level of cortisol, the stress hormone. Herbal teas are caffeine-free. Caffeine can trigger anxiety and interfere with sleep. So, a cup of herbal tea might not look as great as a glass of wine but it surely will make you feel better if you are stressed.
+

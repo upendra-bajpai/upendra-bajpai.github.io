@@ -1,0 +1,45 @@
+---
+layout: post
+title: "Explained What is Solar Cycle 25 recently announced by NASA and NOAA scientists "
+author: jane 
+date: 17-09-2020 11:28:00 
+categories: [ SCIENCE ] 
+image: assets/images/17-09-2020/solar-cycle-25.jpg
+---
+Recently, scientists have developed a new model that can successfully predict seven of the Sun’s biggest flares from the last solar cycle, out of a set of nine with the help of NASA’s Solar Dynamics Observatory. (Source: Twitter/@NASA)
+
+On Tuesday, scientists from NASA and the National Oceanic and Atmospheric Administration (NOAA) announced their predictions about the new solar cycle, called Solar Cycle 25, which they believe has begun. Solar cycles have implications for life and technology on Earth as well as astronauts in space.
+
+What is a solar cycle?
+
+Since the Sun’s surface is a very active space, electrically charged gases on its surface generate areas of powerful magnetic forces, which are called magnetic fields. Since the gases on the Sun’s surface are constantly moving, these magnetic fields can get stretched, twisted and tangled creating motion on the surface, which is referred to as solar activity. Solar activity varied with the stages of the solar cycle, which lasts on average for a period of 11 years.
+
+How do scientists track solar activity?
+
+Scientists track a solar cycle by using sunspots, which are the dark blotches on the Sun that are associated with solar activity. Sunspots are associated as the origins for giant explosions such as solar flares that can spew light, energy and solar material into space.
+
+What are sunspots?
+
+A Sunspot is an area on the Sun that appears dark on the surface and is relatively cooler than the surrounding parts. These spots, some as large as 50,000 km in diameter, are the visible markers of the Sun’s magnetic field, which forms a blanket that protects the solar system from harmful cosmic radiation. When a Sunspot reaches up to 50,000 km in diameter, it may release a huge amount of energy that can lead to solar flares.
+
+The beginning of a solar cycle is typically characterised by only a few sunspots and is therefore referred to as a solar minimum. On Tuesday, the experts announced that the solar minimum for Solar Cycle 25 occurred in December 2019. It took time for them to announce this because of the variability of the Sun.
+
+Scientists predict a solar maximum (middle of the solar cycle) will be reached by July 2025 and that this solar cycle will be as strong as the last solar cycle, which was a “below-average cycle” but not without risks.
+
+📣 Express Explained is now on Telegram. Click here to join our channel (@ieexplained) and stay updated with the latest
+
+Why do scientists track solar activity?
+
+Scientists track solar activity because it can have effects on Earth. For example, when charged particles from coronal mass ejections (CMEs) reach areas near the Earth, they can trigger intense lightning in the skies referred to as auroras. When CMEs are particularly strong, they can also interfere with the power grids, which can cause electricity shortages and power outages. NASA notes that solar flares and CMEs are the most powerful explosions in our solar system.
+
+Further, solar flares can have a major effect on radio communications, Global Positioning Systems (GPS) connectivity, power grids, and satellites. Last month, spaceweather.com reported observing a massive Sunspot group, AR2770, which emitted a few minor solar flares
+
+In 1967, a major solar flare almost led to a nuclear war during the Cold War, as per a space.com report. In May that year, the US Air Force’s Ballistic Missile Early Warning System radar sites in Alaska, Greenland and the UK got jammed due to the flare, causing US officials to mistakenly hold the Soviet Union responsible for the radar failures. It was only after scientists at the North American Aerospace Defense Command (NORAD) informed US leaders of the solar flare that the matter deescalated.
+
+Recently, scientists have developed a new model that can successfully predict seven of the Sun’s biggest flares from the last solar cycle, out of a set of nine with the help of NASA’s Solar Dynamics Observatory.
+
+📣 The Indian Express is now on Telegram. Click here to join our channel (@indianexpress) and stay updated with the latest headlines
+
+For all the latest Explained News, download Indian Express App.
+
+© The Indian Express (P) Ltd

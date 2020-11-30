@@ -1,0 +1,33 @@
+---
+layout: post
+title: "Binge drinkers brains have to work harder to feel empathy for others"
+author: jane 
+date: 11-09-2020 11:13:11 
+categories: [ SCIENCE ] 
+image: assets/images/11-09-2020/ashdfhdashahdashdshfasd_w44xTzE_BE5PZ3r.jpg
+---
+Washington D.C. [USA], September 10 (ANI): People who binge-drink show more extensive dysfunction across their brains than previously realised, a new study from the University of Sussex has shown.
+
+The research shows that binge-drinkers’ brains have to put more effort into trying to feel empathy for other people in pain.
+
+The paper ‘Differential brain responses for the perception of pain during the empathic response in binge drinkers compared to non-binge drinkers’ is published in the October 2020 edition of the Neuroimage: Clinical journal.
+
+The study involved 71 participants (from France and the UK) whose brain activity was observed in fMRI scanners while undertaking a pain perception task. Half of these people were classified as binge-drinkers and half were not. The binge-drinkers were sober while they were being observed.
+
+In the task, participants were shown an image of a limb being injured and asked to imagine either that the body part was theirs, or that of another person, and to state how much pain was associated with the image.
+
+The binge-drinking participants struggled more than their non-binge-drinking counterparts when trying to adopt the perspective of another person experiencing the pain: they took more time to respond and the scans revealed that their brains had to work harder – to use more neural resources – to appreciate how intensely another person would feel pain.
+
+The study also revealed a more widespread dysfunction than previously realised; a visual area of the brain, which is involved in recognising body parts, showed unusually high levels of activation in the binge-drinkers. This was not true in the non-binge drinkers who looked at the same images.
+
+When the binge-drinkers were asked to imagine the injured body part in the picture as their own, their pain estimate was not different from that of their non-binge drinking counterparts.
+
+“I have been studying the effects of drinking excessive alcohol for many years. In that time I have built up a strong body of evidence about the widespread way in which binge-drinking is associated with brain dysfunction in areas supporting self-control and attention. Our aim with the present study was to examine whether binge drinkers show less empathy and their brains show different responses to non-binge drinkers when they imagine another person in pain,” said Professor Theodora Duka from the School of Psychology at the University of Sussex.
+
+“Reduced empathy in binge drinkers may facilitate drinking as it can blunt the perception of the suffering of self or others during a drinking session. We have shown with this study that dysfunction associated with binge drinking is even more extensive than previously known. A region of the brain called the Fusiform Body Area associated with the recognition of body parts showed hyperactivity in binge-drinkers in a situation in which feelings of empathy are experienced,” added Duka.
+
+“Our results are quite surprising. Our data show that binge-drinkers need to work harder to feel empathy for other people in pain. They need to use more resources in terms of higher brain activity than non-binge drinkers. What this means in everyday life is that people who binge-drink might struggle to perceive the pain of others as easily as non-binge drinkers do,” Dr Charlotte Rae from the School of Psychology at the University of Sussex said.
+
+“It’s not that binge drinkers feel less empathy – it’s just that they have to put more brain resources into being able to do so. However, under certain circumstances when resources become limited, binge drinkers may struggle to engage in empathic response to others,” added Rae
+
+Bring drinking is defined as consuming more than 60 g of pure alcohol – (equivalent to about three-quarters of one bottle of wine, or 2 1/2 pints of lager) on at least one occasion in the past 30 days. About 30 percent of all adults (over 15 years of age) who drink alcohol in the UK and France meet this criterion. (ANI)

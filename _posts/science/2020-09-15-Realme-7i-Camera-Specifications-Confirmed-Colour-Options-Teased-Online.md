@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Realme 7i Camera Specifications Confirmed Colour Options Teased Online"
+author: jane 
+date: 15-09-2020 12:48:59 
+categories: [ TECHNOLOGY ] 
+image: assets/images/15-09-2020/realme_7i_image_teaser_instagram_1600081230387.jpg
+---
+Realme 7i camera specifications have been confirmed by the Realme Indonesia. The new smartphone that will debut alongside the Realme 7 in Indonesia on September 17 will come with quad rear cameras. The Realme 7i will also offer two distinct colour options to choose from. As per the rumour mill, the Realme 7i will come with an octa-core Qualcomm Snapdragon 662 SoC, along with 8GB RAM. The smartphone is also claimed to feature a 90Hz display. The Realme 7i is also likely to run on Android 10 with the latest Realme UI on top.
+
+The Realme 7i will come with the quad rear camera setup that will house a 64-megapixel primary sensor, a teaser posted by the Realme Indonesia Twitter account confirmed. This was previously claimed by some tipsters on social media. The phone is also tipped to have an 8-megapixel secondary sensor as well as two 2-megapixel sensors. Further, it is said to have a 16-megapixel selfie camera sensor at the front.
+
+In addition to the primary camera details, the Realme Indonesia division through its Instagram account has revealed that the Realme 7i will come in Aurora Green and Polar Blue colour options. An image showing the back of the phone has also been shared on the photo-sharing platform. The image also shows the hole-punch display design of the Realme 7i that seems to be in line with the Realme 7 that debuted in India earlier this month.
+
+Realme 7i specifications (expected)
+
+Past reports have claimed that the Realme 7i would come with a 6.5-inch HD+ (720x1,600 pixels) display and octa-core Qualcomm Snapdragon 662 SoC. The smartphone may also include a 5,000mAh battery with 18W quick charge.
+
+Why are smartphone prices rising in India? We discussed this on Orbital, our weekly technology podcast, which you can subscribe to via Apple Podcasts, Google Podcasts, or RSS, download the episode, or just hit the play button below.
