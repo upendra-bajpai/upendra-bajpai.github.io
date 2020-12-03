@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "ED arrests Chanda Kochhar s husband in Rs 1 730 crore ICICI loan case"
-author: jane 
-date: 08-09-2020 10:23:29 
-categories: [ BUSINESS ] 
+title: ED arrests Chanda Kochhar s husband in Rs 1 730 crore ICICI loan case
+author: jane
+date: 2020-08-09 10:23:00
+categories:
+  - BUSINESS
+  - HEALTH
 image: assets/images/08-09-2020__10/2020_9$largeimg_2140756354.jpeg
 ---
+
 New Delhi/Mumbai, September 7
 
 The Enforcement Directorate (ED) on Monday arrested Deepak Kochhar, husband of former ICICI Bank CEO Chanda Kochhar, in connection with the ICICI Bank loan case.
