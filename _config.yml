@@ -95,3 +95,10 @@ paginate_multiple:
   - paginate: 10
     paginate_path: '/morning_coffie/page:num/'
     sub_dir: '/fungeeks'
+
+plugins_dir: ./_plugins
+
+jekyll_get:
+  - data: github
+    json: 'https://api.github.com/users/upendra-bajpai/repos'
+    cache: true
