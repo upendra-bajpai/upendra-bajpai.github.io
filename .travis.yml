@@ -4,15 +4,18 @@ branches:
   only:
   - relese
 script:
-  - JEKYLL_ENV=production bundle exec jekyll build --destination site
+- JEKYLL_ENV=production bundle exec jekyll build --destination site
 deploy:
   provider: pages
-  local-dir: ./site
+  local-dir: "./site"
   target-branch: master
   email: deploy@travis-ci.org
   name: Deployment Bot
   skip-cleanup: true
-  github-token: $GITHUB_TOKEN
+  github-token: "$GITHUB_TOKEN"
   keep-history: true
   on:
     branch: relese
+notifications:
+  slack:
+    secure: umDBztksbe9YYZGFPU2IUJfQshPXFkn6QoZ15TaZnwlDiXrfN0EpuHx8foXecGtQNXStJBg6BsPV+22Bt8PUs/umbMglaOb6IDFXbm/Bfg0JCZ0jdQkKjF6Z5xo3E8SiUYnNk2uvy8G/8HLFNnBUqUQOngvj1kI12vi8V3MsuI8iKhljzxk1TxBhp0D/n+KA3TfGuApOhLNI08vKCEoLngOQ5if5O+8NlgTFflYq5YVvXpozC1taXtvgrbZRxdi5UqzFw4NCmPLmXwQxNQqk+j9wZ22XRW/2LWMT1BDtPO0x9EgC1dgmtvwJgBIP+A6bDsAAAlaRcgQi2b0G6VZ3K92V14oKcr5+4EtE+wgd7bKZM5meXUAnhtS25UuHz2Em5RXmeCnva6l1xEAbAoKlFcOWlU8iMTPfreL/gEwGukMB00J0ixHJdOws8yyjUcGjre1eJ0pBg/Rayxgtk9it/gfsOe5lvGywjxg0+0u4p3CLjGk3mJW+jHf2l1XEy+t3cJV+sJhXoOCa1PI3b6byat9LUi2CFPVHACv7txIdIOhJBaa7KVZnZXFqkwgxCCWPsuTuWpaw8nlvmbFfouu4DwNi3ycXpqOr9/XcvltpJkHBk8lD9n+3xkY68w2+S/AauMwvU8Z2LLjD5KN71UkI93biDUGyd6T4wzjaEXXCW6U=
