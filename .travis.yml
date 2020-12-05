@@ -2,7 +2,7 @@ language: ruby
 cache: bundler
 branches:
   only:
-  - release
+  - relese
 script:
   - JEKYLL_ENV=production bundle exec jekyll build --destination site
 deploy:
@@ -15,4 +15,4 @@ deploy:
   github-token: $GITHUB_TOKEN
   keep-history: true
   on:
-    branch: release
+    branch: relese
