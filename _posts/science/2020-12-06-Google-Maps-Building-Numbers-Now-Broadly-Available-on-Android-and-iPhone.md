@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Google Maps Building Numbers Now Broadly Available on Android and iPhone"
+author: jane 
+date: 06-12-2020 17:03:44 +05:30 
+categories: [ TECHNOLOGY ] 
+image: assets/images/06-12-2020/google-maps-building-numbers-now-broadly-available-on-android-and-iphone-152640-7.jpeg
+---
+In other words, the building numbers should now show up for everyone in Google Maps on the web, iPhone, and Android. This feature isn’t yet available on Android Auto and CarPlay , but I’m guessing it’s just a matter of time until building numbers go live in the car too.The first time we spotted house numbers on Google Maps was in the second half of November when the rollout was still in its early days , so it took Google a little bit more than three weeks to make the same feature available for all users.Worth knowing, however, is that building numbers don’t show up just yet everywhere across the world, but there’s a good chance this too is going live in stages. For the time being, it seems the United States is the region where most buildings already display a number, and you can see the data in both the default mode and satellite view.Why is this such a useful update? There’s just one reason: it makes the navigation itself much more accurate, as you can easily set Google Maps to a specific building number and thus get more precise navigation for the direction you’re heading to.Not to mention that building numbers certainly come in handy to shipping services, especially if they rely on Google Maps and don’t use proprietary navigation solutions.Google hasn’t provided any specifics as to when it plans to expand the availability of building numbers to more locations across the world, but there’s a chance this is already a work in progress and it shouldn’t take too long before it happens. In the meantime, you should be able to see the new indicators on Google Maps in the latest versions of the mobile apps.
