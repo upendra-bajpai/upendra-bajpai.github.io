@@ -5,9 +5,9 @@ branches:
   - relese
 script:
 - JEKYLL_ENV=production bundle exec jekyll build --destination site
- before_script:
-      - echo 'Asia/Kolkata' | sudo tee /etc/timezone
-      - sudo dpkg-reconfigure --frontend noninteractive tzdata
+before_script:
+  - echo 'Asia/Kolkata' | sudo tee /etc/timezone
+  - sudo dpkg-reconfigure --frontend noninteractive tzdata
 deploy:
   provider: pages
   local-dir: "./site"
