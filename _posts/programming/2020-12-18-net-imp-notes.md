@@ -5,7 +5,6 @@ author: sal
 date: 2020-07-24-03:25:54
 categories: [ Jekyll, tutorial ]
 image: assets/images/4.jpg
-tags: [featured]
 ---
 # Computer Network
 Range of Private IP 

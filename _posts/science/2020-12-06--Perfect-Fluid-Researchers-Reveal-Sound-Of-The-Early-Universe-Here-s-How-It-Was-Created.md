@@ -25,7 +25,3 @@ Read: Australian Scientists Map Atlas Of The Universe With New Telescope In Reco
 Universe is getting hotter
 
 Meanwhile, scientists said in a study published on November 11 in Astrophysical Journal that the universe is getting “hotter and hotter" as it gets older, after they examined the thermal history of our universe. Ohio State University Center for Cosmology and AstroParticle Physics probed the temperature of the Universe over the last 10 billion years and found that the mean temperature of gas has increased more than 10 times and has hit the alarming 2 million Kelvin or 4 million degrees Fahrenheit.
-
-Read: Universe Is Getting 'hotter' As It Gets Older, A New Research Finds
-
-Image: Pixabey

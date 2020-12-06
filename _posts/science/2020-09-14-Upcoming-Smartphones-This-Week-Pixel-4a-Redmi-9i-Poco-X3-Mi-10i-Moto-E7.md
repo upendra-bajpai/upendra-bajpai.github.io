@@ -4,7 +4,6 @@ title: "Upcoming Smartphones This Week Pixel 4a Redmi 9i Poco X3 Mi 10i Moto E7"
 author: jane 
 date: 14-09-2020 10:37:58 
 categories: [ TECHNOLOGY ] 
-tags: [sticky]
 image: assets/images/14-09-2020/EhJeiOfUYAMr4i8.jpeg
 ---
 Google Pixel 4a pre-orders is now open in 8 more countries. The additional availability in eight new countries hint at the next availability of the budget-focused Pixel 4a in India. Pixel 4a India launch date is still yet to be confirmed by Google, but it will probably be available by the end of September.
