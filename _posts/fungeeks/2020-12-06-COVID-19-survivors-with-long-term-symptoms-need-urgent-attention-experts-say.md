@@ -2,7 +2,7 @@
 layout: post
 title: "COVID 19 survivors with long term symptoms need urgent attention experts say"
 author: jane 
-date: 06-12-2020 10:24:55 
+date: 06-12-2020 10:24:55 +05:30 
 categories: [ HEALTH ] 
 image: assets/images/06-12-2020/np_file_55330-870x580.jpeg
 ---
