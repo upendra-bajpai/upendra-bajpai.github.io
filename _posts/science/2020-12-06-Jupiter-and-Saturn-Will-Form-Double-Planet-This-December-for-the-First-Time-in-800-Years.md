@@ -2,7 +2,7 @@
 layout: post
 title: "Jupiter and Saturn Will Form Double Planet This December for the First Time in 800 Years"
 author: jane 
-date: 06-12-2020 10:19:42 
+date: 06-12-2020 12:11:08 +05:30 
 categories: [ SCIENCE ] 
 image: assets/images/06-12-2020/img.jpg
 ---

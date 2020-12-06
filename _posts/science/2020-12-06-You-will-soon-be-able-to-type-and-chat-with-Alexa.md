@@ -2,7 +2,7 @@
 layout: post
 title: "You will soon be able to type and chat with Alexa"
 author: jane 
-date: 06-12-2020 10:14:19 
+date: 06-12-2020 12:08:00 +05:30 
 categories: [ TECHNOLOGY ] 
 image: assets/images/06-12-2020/10or-D2-alexa.jpg
 ---

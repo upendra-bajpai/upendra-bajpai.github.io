@@ -2,7 +2,7 @@
 layout: post
 title: "Google introduces six new features for Android for this holiday season"
 author: jane 
-date: 06-12-2020 10:15:55 
+date: 06-12-2020 12:08:37 +05:30 
 categories: [ TECHNOLOGY ] 
 image: assets/images/06-12-2020/GGOOGLEMAPS
 ---

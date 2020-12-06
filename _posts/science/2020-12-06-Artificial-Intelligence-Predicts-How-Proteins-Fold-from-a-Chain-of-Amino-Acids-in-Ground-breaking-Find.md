@@ -2,7 +2,7 @@
 layout: post
 title: "Artificial Intelligence Predicts How Proteins Fold from a Chain of Amino Acids in Ground breaking Find"
 author: jane 
-date: 06-12-2020 10:20:29 
+date: 06-12-2020 12:11:37 +05:30 
 categories: [ SCIENCE ] 
 image: assets/images/06-12-2020/1607073922_untitled-design-2020-12-04t145330.720.png
 ---

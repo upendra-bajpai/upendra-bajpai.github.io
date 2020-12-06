@@ -2,7 +2,7 @@
 layout: post
 title: "Fitbit Sense Smartwatch Users Getting Replacements for Hardware Related ECG Issue Report"
 author: jane 
-date: 06-12-2020 10:14:40 
+date: 06-12-2020 12:07:57 +05:30 
 categories: [ TECHNOLOGY ] 
 image: assets/images/06-12-2020/fitbit_versa_3_1605866960780.jpg
 ---

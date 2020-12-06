@@ -2,7 +2,7 @@
 layout: post
 title: " Perfect Fluid Researchers Reveal Sound Of The Early Universe Here s How It Was Created"
 author: jane 
-date: 06-12-2020 10:19:40 
+date: 06-12-2020 12:11:01 +05:30 
 categories: [ SCIENCE ] 
 image: assets/images/06-12-2020/p6qb5dfizw0fmm2x_1607175485.jpeg
 ---

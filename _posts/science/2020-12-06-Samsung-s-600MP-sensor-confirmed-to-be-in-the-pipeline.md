@@ -2,7 +2,7 @@
 layout: post
 title: "Samsung s 600MP sensor confirmed to be in the pipeline"
 author: jane 
-date: 06-12-2020 10:14:03 
+date: 06-12-2020 12:07:47 +05:30 
 categories: [ TECHNOLOGY ] 
 image: assets/images/06-12-2020/gsmarena_000.jpg
 ---

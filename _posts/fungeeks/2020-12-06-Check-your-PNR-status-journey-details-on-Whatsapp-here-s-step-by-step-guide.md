@@ -2,7 +2,7 @@
 layout: post
 title: "Check your PNR status journey details on Whatsapp here s step by step guide"
 author: jane 
-date: 06-12-2020 10:30:11 
+date: 06-12-2020 12:18:31 +05:30 
 categories: [ BUSINESS ] 
 image: assets/images/06-12-2020/903437-untitled-design-38.jpg
 ---
