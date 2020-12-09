@@ -4,7 +4,6 @@ title: "Check your PNR status journey details on Whatsapp here s step by step gu
 author: jane 
 date: 06-12-2020 12:18:31 +05:30 
 categories: [ BUSINESS ] 
-tags: [sticky]
 image: assets/images/06-12-2020/903437-untitled-design-38.jpg
 ---
 The COVID-19 pandemic has changed the world around us. Travelling has become really difficult with infection and increasing caseloads everywhere. Taking this situation into consideration, Railofy has launched a new feature that allows users to get real-time PNR Status and Train Journey Information via WhatsApp.

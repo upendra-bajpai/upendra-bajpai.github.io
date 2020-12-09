@@ -4,6 +4,7 @@ title: "PUBG Mobile India: Launch date, how to download, expected features and o
 author: jane 
 date: 09-12-2020 11:30:38 +05:30 
 categories: [ TECHNOLOGY ] 
+tags: [featured]
 image: assets/images/09-12-2020/904150-pubg-india-company.jpg
 ---
 Lakhs of PUBG lovers in India are waiting for the launch of PUBG Mobile India. It is expected that the game would be launched on both Android and iOS platforms. PUBG Mobile India will face stiff competition from FAU-G, Call of Duty: Mobile, Fortnite, Free Fire and other mobile games of the same genre.

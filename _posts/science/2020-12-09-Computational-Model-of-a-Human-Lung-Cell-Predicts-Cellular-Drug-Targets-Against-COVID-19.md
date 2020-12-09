@@ -35,5 +35,3 @@ Dr. Hadrien Delattre, from the School of Life Sciences at the University of Warw
 He added, “More research needs to be carried out to explore SARS-CoV-2 infected cells and their metabolism, however the model developed here by the researchers can be used as a starting point for testing out specific drug predictions.”
 
 Reference: “Inhibiting the reproduction of SARS-CoV-2 through perturbations in human lung cell metabolic network” by Hadrien Delattre, Kalesh Sasidharan and Orkun S Soyer, 24 November 2020, Life Science Alliance.
-
-DOI: 10.26508/lsa.202000869
