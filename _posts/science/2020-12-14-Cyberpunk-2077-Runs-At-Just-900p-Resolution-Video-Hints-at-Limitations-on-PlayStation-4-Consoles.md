@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Cyberpunk 2077 Runs At Just 900p Resolution? Video Hints at Limitations on PlayStation 4 Consoles"
+author: jane 
+date: 14-12-2020 16:51:13 +05:30 
+categories: [ TECHNOLOGY ] 
+image: assets/images/14-12-2020/1607679009_cyberpunk-2077-quadra-v-tech-forza-horizon-4.jpg
+---
+The highly anticipated CD Projekt Red game Cyberpunk 2077 finally launched last week after months of speculations and delays. Contrary to what many were expecting, Cyberpunk 2077 opened to a substantial amount of complaints and negative reviews from gamers on previous generation consoles including PlayStation 4 and Xbox One consoles. Now, a new video from gaming channel Digital Foundry further cements those claims as it shows how previous generation consoles handle Cyberpunk 2077.
+
+The video published by Digital Foundry shows how Cyberpunk 2077 looks on the PlayStation 4 and PlayStation 4 Pro, and the findings are in line with the game's ratings on Metacritic. On PlayStation 4, Cyberpunk 2077 scores 2.5 out of 10 from about 3,500 ratings. The Xbox One edition fares slightly better with an average score of 3.0 on Metacritic. However, both the Xbox One and PlayStation 4 versions have been reported to have major issues with glitches, crashes, freezes, and low frame rates, according to user reviews on Metacritic. One of the most common issue reported by gamers on Metacritic is that of poor graphics, which is considered a big problem for a triple-A title running on fairly capable consoles. The video from Digital Foundry shows this problem, indicating that the PlayStation 4 can not run Cyberpunk 2077 at a 1080p resolution. Instead, it shows that the console operates at 900p that fluctuates to as low as 720p. The PlayStation 4 Pro, on the other hand, manages a dynamic 1188p resolution in most scenes, and can drop to 972p in a more detailed environment. Digital Foundry notes in the video that the PS4 Pro renders HUD and UI elements in 1080p too, hinting at the PS4 Pro's limits while running Cyberpunk 2077.
+
+Further, in terms of frame rate, neither of the PlayStation 4 consoles can maintain a stable 30FPS frame rate at these low resolution. The PlayStation 4 Pro, according to the video, seems to hit 30FPS quite often, but dips to below 20FPS at times. The game also loads in fewer NPCs and details on the PlayStation 4 and PlayStation 4 Pro than it does on a high-end PC. The Digital Foundry game was benchmarked with patch 1.02, so the performance can potentially improve over time. The PlayStation 4, on the other hand runs Cyberpunk 2077 at a 720p resolution with less than 20FPS at times.
