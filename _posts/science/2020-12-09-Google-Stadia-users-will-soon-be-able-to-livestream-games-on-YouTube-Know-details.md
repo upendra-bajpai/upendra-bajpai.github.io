@@ -4,7 +4,6 @@ title: "Google Stadia users will soon be able to livestream games on YouTube: Kn
 author: jane 
 date: 09-12-2020 11:30:31 +05:30 
 categories: [ TECHNOLOGY ] 
-tags:[static]
 image: assets/images/09-12-2020/google-stadia-1605168166.jpg
 ---
 Image Source : GOOGLE Google Stadia
