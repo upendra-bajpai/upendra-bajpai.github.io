@@ -1,0 +1,43 @@
+---
+layout: post
+title: "Flush with funds in COVID times: Indian firms mop up close to Rs 10 lakh crore in 2020"
+author: jane 
+date: 21-12-2020 12:51:03 +05:30 
+categories: [ BUSINESS ] 
+image: assets/images/21-12-2020/RTX10KWU-770x433.png
+---
+Not-so-expensive credit avenues, benign capital markets and the scramble to built a liquidity war chest to fight pandemic-induced financial woes saw Indian companies mopping up close to Rs 10 lakh crore through equity and debt in 2020. And the bullish trajectory is expected to continue next year too.
+
+With most of the developed markets awash with cheap credit, thanks to low interest regimes, entities from emerging markets like India tapped the low cost funding options. Debt route turned more attractive for many Indian corporates for multiple reasons, including that there won't be dilution of promoter equity, according to experts.
+
+"Lockdown and social distancing norms affected a large number of projects. Further, a large number of companies announced fresh capacity expansion and a number of infra projects are likely to start in near term. Hence, fund mobilisation is expected to be higher in next year," Arjun Yash Mahajan, Head of Institutional Business at Reliance Securities, said. Out of the cumulative Rs 9.85 lakh crore garnered till December 15 this year, Rs 7.3 lakh crore was mopped up from the debt market, Rs 2.46 lakh crore came from the equity market and around Rs 7,100 crore through the overseas route, data compiled by analytics major Prime Database showed.
+
+Of the total Rs 7.3 lakh crore raised through Indian debt markets, Rs 7.23 lakh crore came from private placement and Rs 7,167 crore was through public issuances. V Jayasankar, Senior ED and Head (ECM) at Kotak Mahindra Capital Company said a slew of factors such as faster recovery of the economy, positive developments on the COVID-19 vaccine programme front, availability of ample liquidity for emerging markets, including India, would prompt companies to take advantage of benign capital market conditions to fund growth plans and deleverage their balance sheets in next year.
+
+In 2019, firms raised Rs 10.6 lakh crore, including Rs 7.28 lakh crore through debt and Rs 3.3 lakh crore through equity. Fresh capital has been garnered to fund growth as well as expansion plans, refinance high cost debt and create a war chest of liquidity, while a large amount raised from Initial Public Offers (IPOs) also went to the promoters and shareholders by way of sale of their respective holdings.
+
+COVID-19 Vaccine Frequently Asked Questions View more How does a vaccine work? A vaccine works by mimicking a natural infection. A vaccine not only induces immune response to protect people from any future COVID-19 infection, but also helps quickly build herd immunity to put an end to the pandemic. Herd immunity occurs when a sufficient percentage of a population becomes immune to a disease, making the spread of disease from person to person unlikely. The good news is that SARS-CoV-2 virus has been fairly stable, which increases the viability of a vaccine. How many types of vaccines are there? There are broadly four types of vaccine — one, a vaccine based on the whole virus (this could be either inactivated, or an attenuated [weakened] virus vaccine); two, a non-replicating viral vector vaccine that uses a benign virus as vector that carries the antigen of SARS-CoV; three, nucleic-acid vaccines that have genetic material like DNA and RNA of antigens like spike protein given to a person, helping human cells decode genetic material and produce the vaccine; and four, protein subunit vaccine wherein the recombinant proteins of SARS-COV-2 along with an adjuvant (booster) is given as a vaccine. What does it take to develop a vaccine of this kind? Vaccine development is a long, complex process. Unlike drugs that are given to people with a diseased, vaccines are given to healthy people and also vulnerable sections such as children, pregnant women and the elderly. So rigorous tests are compulsory. History says that the fastest time it took to develop a vaccine is five years, but it usually takes double or sometimes triple that time. View more Show
+
+"Any borrowings done in the recent few months are more to do with refinancing high cost debt or creating a war chest of liquidity for use as demand comes back to the table," Ajay Manglunia, Managing Director and Head of Institutional Fixed Income at JM Financial, said. Additionally, companies preferred debt route as it does not dilute the promoter shareholding, hence preserve their interest, Nikhil Kamath, Co-Founder and CIO of True Beacon and Zerodha, said.
+
+In the equity market, funds mostly came from issuance of shares to institutional investors and rights issue mode as benign stock markets and better valuations made firms to opt for such routes.
+
+Within the equity segment, Qualified Institutional Placement (QIP) route helped raise Rs 79,086 crore, rights issue of shares to existing shareholders accounted for Rs 64,984 crore, IPOs added Rs 26,472 crore, including for SMEs, preferential issue of shares got Rs 39,484 crore and Offer for Sale (OFS) through stock exchange mechanism contributed Rs 21,256 crore. The share of FPO (Follow on Public Offer) was at Rs 15,024 crore.
+
+A total of 14 main-board IPOs mopped-up Rs 26,313 crore, and Small and Medium Enterprise (SME) IPOs brought in Rs 159 crore. In comparison, Rs 12,365 crore raked in through main-board IPOs, while Rs 624 crore via SME segment in 2019. In addition, Yes Bank took the follow-on public offer (FPO) route to mop-up Rs 15,000 crore this year, while SME raised Rs 24 crore through the route.
+
+"A number of IPOs were already lined up before economy felt the jolt of pandemic and they had to defer due to lockdown. As equity markets rebounded led by better prospects of earnings and huge fiscal stimulus offered by the government, IPOs started seeing investors' interests," Mahajan said. Kamath said retail investors have shown a high degree of interest in IPOs and the trend is expected to continue in 2021 too.
+
+The IPO chart in 2020 was led by SBI Cards and Payment Services Ltd that raised Rs 10,355 crore, followed by Gland Pharma (about Rs 6,480 crore), CAMS (Rs 2,240 crore) and UTI Asset Management Company (Rs 2,160 crore). Interestingly, this year saw most of the IPOs opening with a premium over the issue price suggesting strong investors appetite. IPOs like Route Mobile, Happiest Minds Technologies, Rossari Biotech and Gland Pharma clocked handsome gains ranging from 40-200 per cent since listing to investors. Interestingly, this year saw most of the IPOs opening with a premium over the issue price suggesting strong investors appetite.
+
+Moreover, IPO activity is expected to further accelerate in 2021 as investors are keen to invest in quality companies across multiple sectors, Jayasankar said. Apart from public issues, equity raise through QIPs and rights issues together hit a record level of Rs 1.5 lakh crore supported by accessibility of abundant liquidity.
+
+Fund collection through QIP mechanism more than doubled to Rs 79,086 crore this year from Rs 35,238 crore through the mode in 2019. Fund raising through QIP route in 2020 was majorly dominated by financial institutions and banks. Among the major QIPs issuance were ICICI Bank raising about Rs 15,000 crore, Bharti Airtel (over Rs 14,000 crore), HDFC (Rs 14,000 crore), Axis Bank (Rs 10,000 crore) and Kotak Mahindra Bank (Rs 7,442 crore). Fund raising through QIP route in 2020 was majorly dominated by financial institutions and banks.
+
+Jayasankar said raising of 'COVID capital' was seen across sectors. Primary capital raised during last couple of quarters have been termed as "COVID capital" wherein equity that was raised were used to strengthen the balance sheet to overcome any financial stress due to COVID-19 and also to take advantage of growth opportunities available.
+
+Besides, firms mobilised Rs 64,984 crore through rights issue this year, which was higher than Rs 52,053 crore raised in 2019. Reliance Industries contributed the lion's share, with its Rs 53,124 crore through rights issue. This was also the country's largest-ever rights issue.
+
+However, capital garnered through preferential issuance of equity shares plunged to Rs 39,484 crore in 2020 from Rs 2.04 lakh crore in the preceding year. Also, funds collection via OFS route — used for dilution of promoters' holdings — fell to Rs 21,256 crore this year from Rs 26,000 crore in 2019.
+
+Follow our full coverage of the coronavirus pandemic here.

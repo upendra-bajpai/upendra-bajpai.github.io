@@ -4,7 +4,7 @@ title: "Mi QLED TV 4K Flipkart availability revealed; company confirms TV will b
 author: jane 
 date: 09-12-2020 11:31:18 +05:30 
 categories: [ TECHNOLOGY ] 
-tags: [featured]
+
 image: assets/images/09-12-2020/Mi-QLED-TV-4K.jpeg
 ---
 Mi QLED TV 4K price in India will be announced on December 16th, but the TV has now been listed on Flipkart and Xiaomi has confirmed it will be made in India.
