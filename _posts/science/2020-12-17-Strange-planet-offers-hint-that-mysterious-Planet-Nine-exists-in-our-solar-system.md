@@ -4,7 +4,7 @@ title: "Strange planet offers hint that mysterious 'Planet Nine' exists in our s
 author: jane 
 date: 17-12-2020 13:50:31 +05:30 
 categories: [ SCIENCE ] 
-tags: [sticky]
+
 image: assets/images/17-12-2020/8d38db90-3ef7-11eb-be7b-0b4adff543d3
 ---
 This 11-Jupiter-mass exoplanet called HD106906 b occupies an unlikely orbit around a double star 336 light-years away. (Hubble)
