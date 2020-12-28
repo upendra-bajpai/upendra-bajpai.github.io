@@ -4,7 +4,6 @@ title: "NASA shares picture of Saturn-Jupiter conjunction as seen from the Moon"
 author: jane 
 date: 27-12-2020 12:05:21 +05:30 
 categories: [ SCIENCE ] 
-tags: [sticky]
 image: assets/images/27-12-2020/NASA-1.jpg
 ---
 NASA on their official Twitter account also shared pictures of how the phenomena looked like from space and the picture has now caught the attention of many space enthusiasts.
