@@ -4,6 +4,7 @@ title: "Asteroid the size of Eiffel Tower is approaching Earth"
 author: jane 
 date: 06-01-2021 14:59:52 +05:30 
 categories: [ SCIENCE ] 
+tags: [featured]
 image: assets/images/06-01-2021/947794-asteroids.jpg
 ---
 Asteroid Latest News: An asteroid as big as the Effiel Tower is approaching the way Earth and is predicted to hit sometime early in 2021, predicted Nostradamus, the famous French astrologer.

@@ -4,7 +4,7 @@ title: "Mystery behind diamond-studded meteorite that hit Sudan in 2008 revealed
 author: jane 
 date: 28-12-2020 11:20:20 +05:30 
 categories: [ SCIENCE ] 
-tags: [sticky]
+tags: [featured]
 image: assets/images/28-12-2020/sudan-meteorite.jpg
 ---
 This false-colour microscope image of a meteorite sample collected in Sudan shows amphibole crystals, a unique feature, highlighted in orange. (Image: Courtesy of NASA/USRA/Lunar and Planetary Institute )
