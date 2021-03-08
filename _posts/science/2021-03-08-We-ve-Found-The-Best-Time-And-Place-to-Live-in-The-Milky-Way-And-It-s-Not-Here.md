@@ -4,6 +4,7 @@ title: "We've Found The Best Time And Place to Live in The Milky Way... And It's
 author: jane 
 date: 08-03-2021 11:14:48 +05:30 
 categories: [ SCIENCE ] 
+tags: [sticky]
 image: assets/images/08-03-2021/milky-way-bulge_1024.jpg
 ---
 More and more, it seems that the existence and persistence of life on Earth is the result of sheer luck. According to a new analysis of the history of the Milky Way, the best time and place for the emergence of life isn't here, or now, but over 6 billion years ago on the galaxy's outskirts.

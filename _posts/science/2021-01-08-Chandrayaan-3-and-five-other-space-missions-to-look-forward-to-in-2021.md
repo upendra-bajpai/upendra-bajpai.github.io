@@ -4,7 +4,7 @@ title: "Chandrayaan-3 and five other space missions to look forward to in 2021"
 author: jane 
 date: 08-01-2021 13:04:08 +05:30 
 categories: [ SCIENCE ] 
-tags: [sticky]
+tags: [featured]
 image: assets/images/08-01-2021/152825-zmduawyzez-1609675244.jpg
 ---
 Space exploration achieved several notable firsts in 2020 despite the Covid-19 pandemic, including commercial human spaceflight and returning samples of an asteroid to Earth.
