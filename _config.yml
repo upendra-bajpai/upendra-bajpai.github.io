@@ -19,9 +19,6 @@ plugins:
   - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-paginate-multiple
-
-sass:
-  style: compressed
   
 authors:
     sal:
