@@ -41,7 +41,7 @@
                 
                 <div class="col-md-4">
                 <a href="/Chandrayaan-3-set-to-launch-in-early-next-year/">
-                 <img class="w-100" src="http://localhost:4000/assets/images/11-09-2020/chandrayaan-1200-pti.jpg" alt="Chandrayaan 3 set to launch in early next year" />
+                 <img class="blur-up lazyload w-100" src="http://localhost:4000/assets/images/11-09-2020/chandrayaan-1200-pti.jpg" alt="Chandrayaan 3 set to launch in early next year" />
                 </a>
                 </div>
                                 
@@ -66,7 +66,7 @@
                 
                 <div class="col-md-4">
                 <a href="/Giant-particle-accelerator-in-the-sky/">
-                 <img class="w-100" src="/assets/images/11-09-2020/particle.jpg" alt="Giant particle accelerator in the sky" />
+                 <img class="blur-up lazyload w-100" src="/assets/images/11-09-2020/particle.jpg" alt="Giant particle accelerator in the sky" />
                 </a>
                 </div>
                                 
@@ -91,7 +91,7 @@
                 
                 <div class="col-md-4">
                 <a href="/China-makes-crucial-breakthrough-in-reusable-spacecraft-research/">
-                <img class="w-100" src="/assets/images/11-09-2020/chinese-spacecraft-returns-successfully-.jpg" alt="China makes crucial breakthrough in reusable spacecraft research" />
+                <img class="blur-up lazyload w-100" src="/assets/images/11-09-2020/chinese-spacecraft-returns-successfully-.jpg" alt="China makes crucial breakthrough in reusable spacecraft research" />
                 </a>
                 </div>
                                 
@@ -151,7 +151,7 @@
 
 	<div class="col-md-3 pr-0 text-right">
 	<a href="/How-hydrogen-behaves-on-Saturn-and-Jupiter/">
-	<img class="w-100" src="/assets/images/11-09-2020/giant-planets.jpg" alt="How hydrogen behaves on Saturn and Jupiter " />
+	<img class="blur-up lazyload w-100" src="/assets/images/11-09-2020/giant-planets.jpg" alt="How hydrogen behaves on Saturn and Jupiter " />
 	</a>
 	</div>
 
@@ -179,7 +179,7 @@
 
 	<div class="col-md-3 pr-0 text-right">
 	<a href="/A-100-million-year-old-meteorite-crater-found-in-Australia-s-gold-mine/">
-	<img class="w-100" src="/assets/images/11-09-2020/78039345.jpg" alt="A 100 million year old meteorite crater found in Australia s gold mine" />
+	<img class="blur-up lazyload w-100" src="/assets/images/11-09-2020/78039345.jpg" alt="A 100 million year old meteorite crater found in Australia s gold mine" />
 	</a>
 	</div>
 
@@ -207,7 +207,7 @@
 
 	<div class="col-md-3 pr-0 text-right">
 	<a href="/STUDY-Scientists-Say-NO-Signs-of-Intelligent-Life-Detected-In-Near-Constellation-And-It-Will-be-Difficult-to-Find-Them-If-They-Exist/">
-	<img class="w-100" src="/assets/images/11-09-2020/astronomers-observe-more-than-10-million-star-systems-and-found-no-signs-of-intelligent-life.jpg" alt=" STUDY Scientists Say NO Signs of Intelligent Life Detected In Near Constellation And It Will be Difficult to Find Them If They Exist" />
+	<img class="blur-up lazyload w-100" src="/assets/images/11-09-2020/astronomers-observe-more-than-10-million-star-systems-and-found-no-signs-of-intelligent-life.jpg" alt=" STUDY Scientists Say NO Signs of Intelligent Life Detected In Near Constellation And It Will be Difficult to Find Them If They Exist" />
 	</a>
 	</div>
 
@@ -235,7 +235,7 @@
 
 	<div class="col-md-3 pr-0 text-right">
 	<a href="/NASA-news-Supernovas-and-nebulas-shine-through-in-a-breathtaking-array-of-X-ray-images/">
-	<img class="w-100" src="/assets/images/11-09-2020/1332759.jpg" alt="NASA news Supernovas and nebulas shine through in a breathtaking array of X ray images" />
+	<img class="blur-up lazyload w-100" src="/assets/images/11-09-2020/1332759.jpg" alt="NASA news Supernovas and nebulas shine through in a breathtaking array of X ray images" />
 	</a>
 	</div>
 
@@ -263,7 +263,7 @@
 
 	<div class="col-md-3 pr-0 text-right">
 	<a href="/Asteroid-2020-QL2-Bigger-Than-a-Football-Field-to-Fly-by-Earth-on-September-14/">
-	<img class="w-100" src="/assets/images/11-09-2020/asteroid_nasa_main_1576225678149.jpg" alt="Asteroid 2020 QL2 Bigger Than a Football Field to Fly by Earth on September 14" />
+	<img class="blur-up lazyload w-100" src="/assets/images/11-09-2020/asteroid_nasa_main_1576225678149.jpg" alt="Asteroid 2020 QL2 Bigger Than a Football Field to Fly by Earth on September 14" />
 	</a>
 	</div>
 
@@ -291,7 +291,7 @@
 
 	<div class="col-md-3 pr-0 text-right">
 	<a href="/Vera-C-Rubin-Observatory-captures-stunning-record-breaking-first-photo-of-broccoli-Technology-News-Firstpost/">
-	<img class="w-100" src="/assets/images/11-09-2020/The-focal-plane-of-the-LSST-Cam-on-the-Vera-Rubin-Telescope_Jacqueline-OrrellSLAC-National-Accelera.jpg" alt="Vera C Rubin Observatory captures stunning record breaking first photo of broccoli Technology News Firstpost" />
+	<img class="blur-up lazyload w-100" src="/assets/images/11-09-2020/The-focal-plane-of-the-LSST-Cam-on-the-Vera-Rubin-Telescope_Jacqueline-OrrellSLAC-National-Accelera.jpg" alt="Vera C Rubin Observatory captures stunning record breaking first photo of broccoli Technology News Firstpost" />
 	</a>
 	</div>
 

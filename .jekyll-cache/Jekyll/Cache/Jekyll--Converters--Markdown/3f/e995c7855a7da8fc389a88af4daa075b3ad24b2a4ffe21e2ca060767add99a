@@ -41,7 +41,7 @@
                 
                 <div class="col-md-4">
                 <a href="/NASA-Shares-Footage-Of-16-Metre-Wide-dust-Devil-Spinning-On-The-Martian-Surface/">
-                 <img class="w-100" src="http://localhost:4000/assets/images/14-09-2020/1kvuhskunyg03imw_1600007718.jpeg" alt="NASA Shares Footage Of 16 Metre Wide dust Devil Spinning On The Martian Surface" />
+                 <img class="blur-up lazyload w-100" src="http://localhost:4000/assets/images/14-09-2020/1kvuhskunyg03imw_1600007718.jpeg" alt="NASA Shares Footage Of 16 Metre Wide dust Devil Spinning On The Martian Surface" />
                 </a>
                 </div>
                                 
@@ -66,7 +66,7 @@
                 
                 <div class="col-md-4">
                 <a href="/NASA-wants-to-buy-Moon-resources-mined-by-private-firms/">
-                 <img class="w-100" src="/assets/images/14-09-2020/freepressjournal%2F2020-09%2F08c2fc6b-568f-463c-a59c-6c90a5e4bc02%2Fetc_3rd_lead_sep_12.jpg" alt="NASA wants to buy Moon resources mined by private firms" />
+                 <img class="blur-up lazyload w-100" src="/assets/images/14-09-2020/freepressjournal%2F2020-09%2F08c2fc6b-568f-463c-a59c-6c90a5e4bc02%2Fetc_3rd_lead_sep_12.jpg" alt="NASA wants to buy Moon resources mined by private firms" />
                 </a>
                 </div>
                                 
@@ -91,7 +91,7 @@
                 
                 <div class="col-md-4">
                 <a href="/Are-carbon-rich-exoplanets-made-of-diamonds-and-silica-Here-s-what-this-report-suggests/">
-                <img class="w-100" src="/assets/images/14-09-2020/exoplanets1599987638378.jpg" alt="Are carbon rich exoplanets made of diamonds and silica Here s what this report suggests" />
+                <img class="blur-up lazyload w-100" src="/assets/images/14-09-2020/exoplanets1599987638378.jpg" alt="Are carbon rich exoplanets made of diamonds and silica Here s what this report suggests" />
                 </a>
                 </div>
                                 
@@ -151,7 +151,7 @@
 
 	<div class="col-md-3 pr-0 text-right">
 	<a href="/Bose-launches-QuietComfort-Earbuds-Sport-Earbuds-and-three-new-Frames/">
-	<img class="w-100" src="/assets/images/11-09-2020/gsmarena_006.jpg" alt="Bose launches QuietComfort Earbuds Sport Earbuds and three new Frames" />
+	<img class="blur-up lazyload w-100" src="/assets/images/11-09-2020/gsmarena_006.jpg" alt="Bose launches QuietComfort Earbuds Sport Earbuds and three new Frames" />
 	</a>
 	</div>
 
@@ -179,7 +179,7 @@
 
 	<div class="col-md-3 pr-0 text-right">
 	<a href="/Company-of-Heroes-finally-arrives-on-Android-with-an-excellent-port/">
-	<img class="w-100" src="/assets/images/11-09-2020/Company-of-Heroes.jpg" alt="Company of Heroes finally arrives on Android with an excellent port" />
+	<img class="blur-up lazyload w-100" src="/assets/images/11-09-2020/Company-of-Heroes.jpg" alt="Company of Heroes finally arrives on Android with an excellent port" />
 	</a>
 	</div>
 
@@ -207,7 +207,7 @@
 
 	<div class="col-md-3 pr-0 text-right">
 	<a href="/WhatsApp-Spotted-Working-on-Catalogue-Shortcut-New-Call-Button-Features-in-Latest-Android-Beta-Report/">
-	<img class="w-100" src="/assets/images/11-09-2020/whatsapp_android_wabetainfo_1599715760636.jpg" alt="WhatsApp Spotted Working on Catalogue Shortcut New Call Button Features in Latest Android Beta Report" />
+	<img class="blur-up lazyload w-100" src="/assets/images/11-09-2020/whatsapp_android_wabetainfo_1599715760636.jpg" alt="WhatsApp Spotted Working on Catalogue Shortcut New Call Button Features in Latest Android Beta Report" />
 	</a>
 	</div>
 
@@ -235,7 +235,7 @@
 
 	<div class="col-md-3 pr-0 text-right">
 	<a href="/Facebook-s-Mark-Zuckerberg-thinks-Apple-deserves-backlash-over-App-Store-rules/">
-	<img class="w-100" src="/assets/images/11-09-2020/mark-zuckerberg-1-1599730097.jpg" alt="Facebook s Mark Zuckerberg thinks Apple deserves backlash over App Store rules" />
+	<img class="blur-up lazyload w-100" src="/assets/images/11-09-2020/mark-zuckerberg-1-1599730097.jpg" alt="Facebook s Mark Zuckerberg thinks Apple deserves backlash over App Store rules" />
 	</a>
 	</div>
 
@@ -263,7 +263,7 @@
 
 	<div class="col-md-3 pr-0 text-right">
 	<a href="/Redmi-Note-9-Sale-Today-in-India-via-Amazon-Mi-com-Price-Offers-and-More/">
-	<img class="w-100" src="/assets/images/11-09-2020/1597897794_redmi-note-9.jpg" alt="Redmi Note 9 Sale Today in India via Amazon Mi com Price Offers and More" />
+	<img class="blur-up lazyload w-100" src="/assets/images/11-09-2020/1597897794_redmi-note-9.jpg" alt="Redmi Note 9 Sale Today in India via Amazon Mi com Price Offers and More" />
 	</a>
 	</div>
 
@@ -291,7 +291,7 @@
 
 	<div class="col-md-3 pr-0 text-right">
 	<a href="/iPhone-12-could-make-surprise-appearance-at-Apple-Watch-6-event/">
-	<img class="w-100" src="/assets/images/11-09-2020/JyqJq8wsHXjRVuqRUbeCFm-1200-80.jpg" alt="iPhone 12 could make surprise appearance at Apple Watch 6 event" />
+	<img class="blur-up lazyload w-100" src="/assets/images/11-09-2020/JyqJq8wsHXjRVuqRUbeCFm-1200-80.jpg" alt="iPhone 12 could make surprise appearance at Apple Watch 6 event" />
 	</a>
 	</div>
 
