@@ -1,0 +1,25 @@
+---
+layout: post
+title: "BLACK FUNGUS OUT OF THE BLUE"
+author: jane 
+date: 02-07-2021 12:13:45 +05:30 
+categories: [ HEALTH ] 
+image: assets/images/02-07-2021/84050479.jpg
+---
+infection
+
+comorbidities
+
+Sassoon General Hospitals
+
+patient
+
+Deccan
+
+Sassoon
+
+ENT
+
+Ruby Hall Clinic
+
+The COVID-19 infection has exacerbated cases of mucormycosis within two to three months of the infection, mainly amongst those withHowever, in a startling and uncommon incident, a 55-year-old healthy man in the city was recently afflicted by the black fungus almost 10 months after his COVID recovery. The man from Sinhagad Road has now, unfortunately, lost his teeth, part of his jaw and tissues around the sinus to the infection, leaving doctors perplexed. Currently admitted to the, he “feels lucky to have survived.”The, who works in a private company, was diagnosed with COVID on August 12, 2020. He was admitted to a private hospital in the city and was even on oxygen support for eight days. On August 21, 2020, he was discharged and reported no health issues post recovery.However, the good health lasted only till June of this year. He said that he had taken the first dose of COVID vaccine in April. “Everything was good, and I had no health problems. On June 18, I began to experience severe pain in a tooth and visited a dentist. The doctor did screening tests and gave me pain killers and other medicines. I took medications every three to four hours. However, there was no relief whatsoever. When I visited the doctor again, he administered anaesthesia.During the examination, he suspected that one tooth was infected,” he said. The dentist did a root canal of the infected tooth, but by evening an ache started in the adjoining tooth. Screening tests were done yet again, but there were no signs of any infection. “I went to another dental specialist since the toothache was not subsiding. Also, the medicines were evidently not working any more. On June 25, the specialist referred me to a maxillofacial surgeon,” the patient said.He was then referred to Dr Pushkar Gadre, consultant and maxillofacial surgeon at the Sahyadri Super-Specialty Hospital in. The doctors there conducted several tests and found him with infected sinuses. “The patient had come in with the complaint of a toothache. He underwent an emergency life saving surgery on June 26. During the procedure, we found that he had a black fungal infection in his tooth, upper jaw bone, sinuses and around his eyes. We had to remove his left jaw bone, seven teeth and tissues from his sinuses and around the eyes to stop the spread. Surprisingly, he had no comorbid conditions. It is very uncommon to find the mucormycosis infection in such healthy patients, that too 10 months after COVID,” said Gadre.The patient was discharged on June 29 and narrated how he was shocked with the whole experience. While the mucormycosis treatment is expensive, he got himself admitted to thehospital post-surgery. “I was healthy and had no comorbidities — like hypertension, diabetes, etc. I was fortunate that I got in touch with the doctors who eventually saved my life. It was a narrow escape as death stared me in the eyes.”It may be noted that mucormycosis, also known as the black fungus, is a rare but serious fungal infection. It is being detected relatively frequently among COVID-19 patients. The disease often manifests in the skin and also affects the sinuses, eyes, lungs and brain. It mainly affects people whose immune system has been breached by another illness, those with health problems or people taking medicines that lower the body’s ability to fight germs and sickness.Dr Murarji Ghadge, seniorconsultant and surgeon at the, Pune, said the fungal infection is found in patients who have uncontrolled sugar, diabetes or are immunocompromised. “The condition is very uncommon and rare if the patient has no comorbid conditions. People must maintain good hygiene and avoid reuse of dusty or damp masks. COVID patients must take care of their sugar levels after discharge. Maintaining a healthy diet and good immunity is important.”He further said that immunity plays a vital role to prevent mucormycosis. “People should seek medical attention immediately if they show symptoms like a bleeding nose, facial swelling on one side, nasal or sinus congestion, black lesions on nasal bridge or upper jaw inside the mouth,” he added.Dr M Tambe, dean of the BJ Government Medical College and Sassoon General Hospitals, said it is rare to find fungal infection in COVID patients 10 months after recovery. “The mucormycosis infection is found in COVID patients normally within two to three months. Cases of the black fungal infection have been reported even after four months but only amongst those on oxygen support or steroids post-discharge. If a patient is healthy, this is uncommon. We need to conduct further tests to check if the patient has any underlying health condition,” he added.
