@@ -24,15 +24,15 @@ jobs:
       # Standard usage
       - uses:  helaili/jekyll-action@v2
         with:
-          token: ${{ secrets.GH_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       # Specify the Jekyll source location as a parameter
       - uses: helaili/jekyll-action@v2
         with:
-          token: ${{ secrets.GH_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       # Specify the target branch (optional)
       - uses: helaili/jekyll-action@v2
         with:
-          token: ${{ secrets.GH_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           target_branch: 'master'
