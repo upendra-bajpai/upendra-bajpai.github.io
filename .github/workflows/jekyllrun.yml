@@ -10,11 +10,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: change time zone
-          run: |
-        echo "Asia/Kolkata"
-        sudo tee /etc/timezone && sudo dpkg-reconfigure --frontend noninteractive tzdata
-
+      - uses: szenius/set-timezone@v1.0
+        with:
+          timezoneLinux: "Asia/Kolkata"
       # Use GitHub Actions' cache to cache dependencies on servers
       - uses: actions/cache@v2
         with:
