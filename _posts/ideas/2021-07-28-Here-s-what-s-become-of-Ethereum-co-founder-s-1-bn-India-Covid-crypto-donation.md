@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Here’s what’s become of Ethereum co-founder's $1 bn India Covid crypto donation"
+author: jane 
+date: 28-07-2021 17:27:19 +05:30 
+categories: [ CRYPTOCURRENCY ] 
+image: assets/images/28-07-2021/photo.jpg
+---
+Two months after Ethereum co-founder Vitalik Buterin donated about $1 billion in cryptocurrency to an India Covid relief fund, about $20 million has been paid out so far.That may not sound like much, but between cashing out of an illiquid asset, complying with government regulations and getting the money to the right places, it isn’t easy, according to Sandeep Nailwal , a New Delhi-based entrepreneur who founded the India Covid Crypto Relief Fund that received the donation.For starters, Buterin’s gift of 50 trillion Shiba Inu coins -- 5% of the memecoin in circulation -- spurred a 50% crash in the price. The tokens should eventually amount to $400 million, Nailwal estimated in an interview.Local regulations have also taken up time. In order to comply with India’s Foreign Contribution Regulation Act the fund has gradually been converting the tokens into dollars and then rupees, with about 80% completed so far, Nailwal said.Nailwal said he has also been cautious with disbursement : he’s paid out $20 million so far, with another $20 million in the pipeline. He wants to ensure the money reaches the grass-roots level, and is planning to hire a big-name audit firm to ensure complete transparency.Nailwal, who created the fund in April as an unexpectedly deadly coronavirus wave ravaged India with record deaths, said the fund is now focused on the next possible resurgence. It has made donations to organizations involved in distributing food across the country and 10 Bed ICU, which is dedicated to setting up mini-intensive care wards for patients suffering from severe cases of Covid-19 in rural India.“We have been in preparation for the third wave,” Nailwal said.

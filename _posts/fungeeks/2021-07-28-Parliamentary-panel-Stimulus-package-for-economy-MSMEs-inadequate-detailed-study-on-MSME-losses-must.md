@@ -1,0 +1,29 @@
+---
+layout: post
+title: "Parliamentary panel: Stimulus package for economy, MSMEs inadequate; detailed study on MSME losses must"
+author: jane 
+date: 28-07-2021 17:27:44 +05:30 
+categories: [ BUSINESS ] 
+image: assets/images/28-07-2021/msme.jpg
+---
+The Committee suggested the government to extend ECLGS in scope to cover small traders/dealers as well who have no access to institutional finances meant for MSMEs.(Representative image)
+
+Ease of Doing Business for MSMEs: Even as the government had announced a stimulus package last year for the economic revival post-Covid, it has been “found to be inadequate as the measures adopted were more of loan offering and long-term measures instead of improving the cash flow to generate demand as immediate relief,” said a report by the department-related Parliamentary Standing Committee on Industry tabled in Rajya Sabha on Tuesday. The report noted that in the process of economic recovery post-first wave of the pandemic, the second wave even more vigorously ripped the economy particularly the MSME Sector. The Committee recommended the government to “immediately come out with a larger economic package aimed at bolstering demand, investment, exports, and employment generation to help the economy, including MSMEs.”
+
+The government had last year launched the Rs 3 lakh crore Emergency Credit Line Guarantee Scheme (ECLGS) — as part of the Rs 20 lakh crore stimulus package – equivalent to 10 per cent of India’s GDP – to help MSMEs recover from the Covid impact. The scheme’s limit was recently enhanced to Rs 4.5 lakh crore.
+
+The Committee noted that based on the written replies by the Ministry, no intensive study has been conducted by the Ministry of MSME to ascertain the actual losses suffered by the sector due to the lockdown. The second wave, in fact, exposed the vulnerabilities of MSMEs like never before and highlighted the problems faced by them such as delayed payments, high informality, low financial resilience, scarcity in raw material availability, etc. “A detailed study needs to be conducted to make an assessment of the actual losses suffered by the MSME Sector so as to chalk out an effective plan for revival of the MSME Sector.”
+
+“The report clearly exposes the let down by the union government to Indian entrepreneurs. A stitch in time would have saved nine. In this case, at least 40 per cent of micro enterprises would have been saved, had the government listened to the voice of the voiceless from the field,” K.E.Raghunathan, Convenor of Consortium of Indian Associations told Financial Express Online.
+
+Former MSME Minister Nitin Gadkari had reasoned in February this year in Rajya Sabha that data regarding temporary or permanent closure of the units due to Covid is not maintained by the MSME Ministry as ‘MSMEs are there in both formal and informal sector.” Last September as well, former MSME MoS Pratap Chandra Sarangi in the Rajya Sabha had said that “no such record is available” for the number of MSME units shut down during the March-August 2020 period of the pandemic. In fact, there is no data with the government on the number of MSMEs closed down from FY15 to FY20, Sarangi had added.
+
+Subscribe to Financial Express SME newsletter now: Your weekly dose of news, views, and updates from the world of micro, small, and medium enterprises
+
+As of July 2, 2021, 60.6 per cent of the Rs 4.5 lakh crore ECLGS amount was sanctioned in loans. Out of Rs 2.73 lakh crore sanctioned, Rs 2.14 lakh crore was disbursed while guarantees issued for loans granted stood at around 1.09 crore MSMEs, according to the data shared by the MSME Minister Narayan Tatu Rane in the Rajya Sabha. However, the report noted that despite “a high success rate, yet, around 50 per cent of total guarantee amount only has been issued to MSMEs. As a result, a large number of MSMEs hard hit by the Covid Pandemic remained deprived from the benefit of the scheme. More so, it is observed that the complete amount of sanction has not been disbursed to the borrowers vis-à-vis sanctions, for fear of loan defaulting by MSMEs in the backdrop of the 2nd wave of the Pandemic.”
+
+“Banks approached those who had collaterals such as properties while those without collaterals were left out. Even those who raised credit under the scheme, face a catch-22 situation. If MSMEs are not able to repay their existing loans, how will they repay the new loan even after few years? How MSMEs generate profit for the second loan if they are not able to pay for the first loan. If MSMEs default then it is another difficult situation. ECLGS has been done in a haphazard way even as the timing was right,” Mohit Jain, Chairperson, MSME Committee, PHD Chamber of Commerce and Industry told Financial Express Online.
+
+The Committee urged the government to enhance the guarantee amount as nearly 2.5 crore traders have also become eligible for the scheme now. It also suggested the government to extend the scheme in scope to cover small traders/dealers as well who have no access to institutional finances meant for MSMEs. The government had recently reinstated retail and wholesale trades under the MSME classification.
+
+“Most of the policies formulated are aimed at the benefit of medium and large enterprises in the country whereas the position should be contrary…The Committee recommends that while formulating policies/schemes, the Ministry should consider the benefits of MSEs which are often deprived of the benefits of various policies/schemes announced by the Government. The stimulus package announced by Government last year could not percolate down properly to the lower levels of the MSME sector,” the Parliamentary panel said.
