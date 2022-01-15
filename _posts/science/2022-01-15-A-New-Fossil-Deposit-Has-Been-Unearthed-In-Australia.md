@@ -1,0 +1,17 @@
+---
+layout: post
+title: "A New Fossil Deposit Has Been Unearthed In Australia"
+author: jane 
+date: 15-01-2022 14:47:33 +05:30 
+categories: [ SCIENCE ] 
+image: assets/images/15-01-2022/1194926-spider.jpg
+---
+Paleontologists have discovered new evidence of this wealth of life in one of these grasslands, the Central Tablelands of NSW. A new extraordinary fossil site has thrown up remains of spiders, insects, fish, plants, and even a bird feather dating from the Miocene period, 11 to 16 million years old. Matthew McCurry of the Australian Museum Research Institute said that the fossils they have discovered show that this area was originally a temperate, mesic rainforest and that life was vibrant and numerous here in the Central Tablelands of NSW.
+
+Several of the fossils were uncovering are unknown to science, including trapdoor spiders, enormous cicadas, wasps, and various fish. It has been hard to distinguish what these old ecosystems were like till now, yet especially with the high level of conservation at this newfound fossil site, even minute, delicate animals like insects have turned into well-preserved fossils. The assemblage, dubbed McGraths Flat, is so unique that it's been designated as a Lagerstatte a sedimentary fossil layer as unusual that soft tissues have been preserved in some cases. Organisms have indeed been conserved so effectively at McGraths Flat that indeed cellular components can be seen in some fossils. Even further astounding, it's a form of iron-rich rock termed goethite, that rarely has outstanding fossils.
+
+McCurry added that they believed the process that changed these species into fossils is crucial to their preservation. Their findings indicate that the fossils were created as iron-rich groundwaters flowed into a billabong and that precipitation of iron minerals encased species living in or falling into the water
+
+According to the researchers, the fossils in the assemblage are similar to ecosystems seen in present Australian rainforests, but it was the microscopic features that made a massive difference. For example, melanosomes, microscopic structures that provide tissues their pigment, have been preserved in the site's fossilized feather, as well as in the eyes of a fish and a fly. Since the melanosomes are not pigmented, their shape can be matched to that of modern melanosomes to assist researchers to determine how the tissues were colored. The researchers can now determine the colors of the many McGraths flat animals, such as the feather.
+
+Microbiologist Michael Frese of the University of Canberra stated that the fossils also contain traces of species interactions. Fish stomach contents, for example, have been retained in the fish, allowing us to determine what they were eating. We've also discovered pollen preserved on the bodies of insects, allowing us to determine which species pollinated which plants. The McGraths Flat rainforest was being encroached upon by arid climate zones, according to an examination of pollen grains in the collection. This is not surprising; global temperatures began to climb throughout the Miocene, and it was around this time that the Australian continent began to transition from lush to the desert.

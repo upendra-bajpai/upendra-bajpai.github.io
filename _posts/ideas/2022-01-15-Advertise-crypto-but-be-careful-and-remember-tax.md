@@ -1,0 +1,23 @@
+---
+layout: post
+title: "Advertise crypto, but be careful and remember tax"
+author: jane 
+date: 15-01-2022 14:47:51 +05:30 
+categories: [ CRYPTOCURRENCY ] 
+image: assets/images/15-01-2022/lexology-social-media.png
+---
+Last month, the Advertising Standards Authority (“ASA”) upheld complaints on 7 different adverts relating to cryptocurrencies. In each case, the adverts were considered to be socially irresponsible and taking advantage of consumers' inexperience in dealing with this increasingly popular, yet relatively new, form of digital asset.
+
+The ASA is the UK’s independent advertising regulator. Adverts do not go through the ASA for approval before they are published. Instead, the UK’s self-regulatory process requires publishers of non-broadcast adverts, sales promotions, and direct marketing to refer to the rules published in the UK Code of Non-broadcast Advertising and Direct & Promotional Marketing (the “CAP Code”) to check whether their adverts and marketing comply with the regulations.
+
+The central principle of the CAP Code is that all marketing communications need to be “legal, decent, honest and truthful”, enshrined in rule 1.1. This includes the requirement that marketing communications are prepared with a sense of responsibility to consumers and society (Rule 1.3). Certain sections of the CAP Code are designated to specific types of adverts, with adverts and marketing for financial services regulated in detail in section 14. Rule 14.1, for example, requires that any offers of financial products be understood easily and do not take advantage of consumers' “inexperience or credulity.”
+
+All 7 of the adverts in the ASA’s rulings of December breached both rules 1.3 and 14.1. Specifically, adverts that emphasised how easy investment in cryptocurrency is (with phrases such as “Register in minutes, deposit instantly, then make super-easy and secure crypto trades”, as used by CoinBurp) were considered irresponsible for giving the overall impression that investment in cryptocurrency was straightforward.
+
+6 of the 7 adverts actively promoted investment in cryptocurrency, and all were also found to be misleading. Misleading advertising is prohibited by section 3 of the CAP Code and the adverts are judged by the impression they create and the likely effect on consumers (rather than the marketer's intentions). All 6 adverts promoting investment in crypto last month were found misleading and in breach of rule 3.3, which requires advertisers to give enough information to allow consumers to make informed decisions. For example, the claim “£5 in #Bitcoin in 2010 would be worth over £100,000 in January 2021. Don’t miss out on the next decade” by Coinbase was criticised for implying that crypto’s past performance could be a guide for the future and customers could expect a similar return on investment going forward.
+
+The 6 adverts promoting crypto investment also breached rule 14.4, which requires marketing communications for financial services to make clear that the value of investments is variable and can go down as well as up. The rule was breached because the adverts did not sufficiently emphasise the volatility of crypto. For example, Kraken’s one-second risk warning that cryptocurrency can be highly volatile on a 20-second digital poster was considered insufficient.
+
+The ASA was also critical of the adverts for actively promoting crypto investment but not making consumers aware of the tax implications. This may sound surprising because, as noted by eToro (UK) Ltd, tax information is not always required in financial product advertising and there wasn’t a regulatory basis requiring such information when the ads were published. Despite this, the ASA considered that most consumers were unlikely to be aware that capital gains tax would be payable on profits from investing in cryptocurrency, so the ads were deemed to take advantage of consumers’ inexperience or credulity. The one ruling which did not fall foul of this rule was Papa John’s, which promoted “FREE Bitcoin worth £10 for every pizza bought”. For Papa John’s, it wasn’t the lack of tax advice, but the use of pizza to promote opening a cryptocurrency account that the ASA found “trivialised what was a serious and potentially costly financial decision”.
+
+The ASA’s tough approach to cryptocurrency advertising emphasises the need for advertisers to clearly and explicitly illustrate the risk of the investment, or risk an adverse ruling from the ASA. Ultimately, all 7 of these adverts were ordered to be taken down.
