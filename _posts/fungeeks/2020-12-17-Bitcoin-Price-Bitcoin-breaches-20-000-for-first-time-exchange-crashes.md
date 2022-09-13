@@ -1,9 +1,0 @@
----
-layout: post
-title: "Bitcoin Price: Bitcoin breaches $20,000 for first time, exchange crashes"
-author: jane 
-date: 17-12-2020 14:05:43 +05:30 
-categories: [ BUSINESS ] 
-image: assets/images/17-12-2020/photo.jpg
----
-NEW DELHI: Bitcoin surpassed $20,000 for the first time, another milestone in what’s been an eye-popping rally for the controversial digital asset this year. The world ’s largest cryptocurrency rose over 6% to $20,676 on Wednesday, vindicating forecasts that were scoffed at months ago and leading to even higher prognostications. Bitcoin has almost tripled this year.The surge also caused a outage in a major US cryptocurrency exchange, Coinbase. Its retail and professionalfocused platforms were hit by connection problems and network congestion.Bitcoin has surged despite a severe crash in March that saw it lose 25% amid the pandemic. Proponents have seized on the narrative that the coin could act as a store of wealth amid supposed rampant central-bank money printing, even as inflation remains mostly muted.In addition, some Wall Street firms have taken a greater interest , with many seeking to capitalise on its gains in a world of rock-bottom interest rates. Guggenheim Partners, for instance, recently said it might invest up to 10% of its $5.3-billion Macro Opportunities Fund in a bitcoin trust.Bitcoin’s cross above $20,000 is its second major milestone in recent weeks — the coin at the end of November reached a new high after three years. It had traded at a few cents for several years after its late 2008 launch by an unknown software developer in the wake of the global financial crash.
